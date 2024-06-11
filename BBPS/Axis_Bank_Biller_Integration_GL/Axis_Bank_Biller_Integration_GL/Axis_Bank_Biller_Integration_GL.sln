@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Axis_Bank_Biller_Integration_GL", "Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL.csproj", "{A7506AF4-89A5-4019-9053-D65EE59680E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3GBusEntity", "S3GBusEntity\S3GBusEntity.csproj", "{F930A34E-EF85-40B3-A541-412EEDB533CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S3GDALayer", "S3GDALayer\S3GDALayer.csproj", "{AF942B28-C7C0-4ED1-91C9-7528B99645AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7506AF4-89A5-4019-9053-D65EE59680E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7506AF4-89A5-4019-9053-D65EE59680E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7506AF4-89A5-4019-9053-D65EE59680E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7506AF4-89A5-4019-9053-D65EE59680E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F930A34E-EF85-40B3-A541-412EEDB533CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F930A34E-EF85-40B3-A541-412EEDB533CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F930A34E-EF85-40B3-A541-412EEDB533CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F930A34E-EF85-40B3-A541-412EEDB533CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF942B28-C7C0-4ED1-91C9-7528B99645AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF942B28-C7C0-4ED1-91C9-7528B99645AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF942B28-C7C0-4ED1-91C9-7528B99645AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF942B28-C7C0-4ED1-91C9-7528B99645AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC79A031-1420-47AD-97FB-67CC9351640D}
+	EndGlobalSection
+EndGlobal

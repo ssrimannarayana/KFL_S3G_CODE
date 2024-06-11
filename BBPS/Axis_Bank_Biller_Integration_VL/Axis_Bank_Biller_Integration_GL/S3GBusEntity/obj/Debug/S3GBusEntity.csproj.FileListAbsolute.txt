@@ -1,0 +1,121 @@
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\obj\Debug\ResolveAssemblyReference.cache
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.ResolveComReference.cache
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames.resources
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames_SQL_ORA.resources
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.GenerateResource.Cache
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.dll
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.pdb
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll.config
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.pdb
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\bin\Debug\office.dll
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\bin\Debug\office.xml
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GBusEntity\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll.config
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.pdb
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\bin\Debug\office.dll
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\bin\Debug\office.xml
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\obj\Debug\ResolveAssemblyReference.cache
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.ResolveComReference.cache
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames.resources
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames_SQL_ORA.resources
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.GenerateResource.Cache
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.dll
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.pdb
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll.config
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.pdb
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\office.dll
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\office.xml
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\ResolveAssemblyReference.cache
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.ResolveComReference.cache
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames.resources
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames_SQL_ORA.resources
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.GenerateResource.Cache
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.dll
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.pdb
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\SISLS3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll.config
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.pdb
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\office.dll
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\office.xml
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\ResolveAssemblyReference.cache
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.ResolveComReference.cache
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames.resources
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames_SQL_ORA.resources
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.GenerateResource.Cache
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.dll
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.pdb
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.ResolveComReference.cache
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames.resources
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames_SQL_ORA.resources
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.GenerateResource.Cache
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.dll
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.pdb
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll.config
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.pdb
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\bin\Debug\office.dll
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\bin\Debug\office.xml
+D:\KLF Lending and Gold Loan Task\Lending\SISLS3GDLayer\S3GBusEntity\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\KLF Lending and Gold Loan\Lending\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll.config
+D:\KLF Lending and Gold Loan\Lending\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll
+D:\KLF Lending and Gold Loan\Lending\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.pdb
+D:\KLF Lending and Gold Loan\Lending\SISLS3GDLayer\S3GBusEntity\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\KLF Lending and Gold Loan\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\KLF Lending and Gold Loan\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.ResolveComReference.cache
+D:\KLF Lending and Gold Loan\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames.resources
+D:\KLF Lending and Gold Loan\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames_SQL_ORA.resources
+D:\KLF Lending and Gold Loan\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.GenerateResource.Cache
+D:\KLF Lending and Gold Loan\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.dll
+D:\KLF Lending and Gold Loan\Lending\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.pdb
+D:\KFL VL\Projects\S3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll.config
+D:\KFL VL\Projects\S3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.dll
+D:\KFL VL\Projects\S3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\S3GBusEntity.pdb
+D:\KFL VL\Projects\S3G\SISLS3GDLayer\S3GBusEntity\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\KFL VL\Projects\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csprojResolveAssemblyReference.cache
+D:\KFL VL\Projects\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\KFL VL\Projects\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.ResolveComReference.cache
+D:\KFL VL\Projects\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames.resources
+D:\KFL VL\Projects\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames_SQL_ORA.resources
+D:\KFL VL\Projects\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.GenerateResource.Cache
+D:\KFL VL\Projects\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.dll
+D:\KFL VL\Projects\S3G\SISLS3GDLayer\S3GBusEntity\obj\Debug\S3GBusEntity.pdb
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\bin\Debug\S3GBusEntity.dll.config
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\bin\Debug\S3GBusEntity.dll
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\bin\Debug\S3GBusEntity.pdb
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\obj\Debug\S3GBusEntity.csprojAssemblyReference.cache
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.ResolveComReference.cache
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames.resources
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\obj\Debug\S3GBusEntity.SPNames_SQL_ORA.resources
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.GenerateResource.cache
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.CoreCompileInputs.cache
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\obj\Debug\S3GBusEntity.csproj.CopyComplete
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\obj\Debug\S3GBusEntity.dll
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GBusEntity\obj\Debug\S3GBusEntity.pdb

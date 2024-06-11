@@ -1,0 +1,12 @@
+D:\SOURCE CODE\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.dll
+D:\SOURCE CODE\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.pdb
+D:\SOURCE CODE\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\SOURCE CODE\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\SOURCE CODE\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\SOURCE CODE\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.dll
+D:\SOURCE CODE\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.Unity.dll
+D:\SOURCE CODE\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SOURCE CODE\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.pdb
+D:\SOURCE CODE\SISLS3GDLayer\S3GDALayer\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCE CODE\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.dll
+D:\SOURCE CODE\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.pdb

@@ -1,0 +1,90 @@
+D:\S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.dll
+D:\S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.pdb
+D:\S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.pdb
+D:\S3G\SISLS3GDLayer\S3GDALayer\obj\Debug\ResolveAssemblyReference.cache
+D:\S3G\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.dll
+D:\S3G\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.pdb
+D:\S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GDALayer\bin\Debug\obj\Debug\S3GDALayer.pdb
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.dll
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.pdb
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.dll
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.pdb
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GDALayer\obj\Debug\ResolveAssemblyReference.cache
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.dll
+D:\VSS_S3G_SourceCode\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.pdb
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GDALayer\bin\Debug\obj\Debug\S3GDALayer.pdb
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.dll
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.pdb
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.pdb
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GDALayer\obj\Debug\ResolveAssemblyReference.cache
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.dll
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.pdb
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.dll
+D:\SISLS3G_SVN\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SISLS3G\SISLS3GDLayer\S3GDALayer\bin\Debug\obj\Debug\S3GDALayer.pdb
+D:\SISLS3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.dll
+D:\SISLS3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.pdb
+D:\SISLS3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.dll
+D:\SISLS3G\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\SISLS3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.pdb
+D:\SISLS3G\SISLS3GDLayer\S3GDALayer\obj\Debug\ResolveAssemblyReference.cache
+D:\SISLS3G\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.dll
+D:\SISLS3G\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.pdb
+D:\SISLS3G\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GDALayer\obj\Debug\ResolveAssemblyReference.cache
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.dll
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.pdb
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\obj\Debug\S3GDALayer.pdb
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.dll
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.pdb
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.dll
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\SVNS3G_Kali_New_Server\S3GFA\Dev\S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.pdb
+D:\KanagaDurga\SISLS3GDLayer\S3GDALayer\bin\Debug\obj\Debug\S3GDALayer.pdb
+D:\KanagaDurga\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.dll
+D:\KanagaDurga\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.pdb
+D:\KanagaDurga\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.dll
+D:\KanagaDurga\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.pdb
+D:\KanagaDurga\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.csprojResolveAssemblyReference.cache
+D:\KanagaDurga\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.dll
+D:\KanagaDurga\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.pdb
+D:\KanagaDurga\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\KanagaDurga\KLF_S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\obj\Debug\S3GDALayer.pdb
+D:\KanagaDurga\KLF_S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.dll
+D:\KanagaDurga\KLF_S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.pdb
+D:\KanagaDurga\KLF_S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.dll
+D:\KanagaDurga\KLF_S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.pdb
+D:\KanagaDurga\KLF_S3G\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.csprojResolveAssemblyReference.cache
+D:\KanagaDurga\KLF_S3G\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.dll
+D:\KanagaDurga\KLF_S3G\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.pdb
+D:\KanagaDurga\KLF_S3G\SISLS3GDLayer\S3GDALayer\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\KLF Lending and Gold Loan\Gold Loan\SISLS3GDLayer\S3GDALayer\bin\Debug\obj\Debug\S3GDALayer.pdb
+D:\KLF Lending and Gold Loan\Gold Loan\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.dll
+D:\KLF Lending and Gold Loan\Gold Loan\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.pdb
+D:\KLF Lending and Gold Loan\Gold Loan\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.dll
+D:\KLF Lending and Gold Loan\Gold Loan\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.pdb
+D:\KLF Lending and Gold Loan\Gold Loan\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.csprojResolveAssemblyReference.cache
+D:\KLF Lending and Gold Loan\Gold Loan\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.dll
+D:\KLF Lending and Gold Loan\Gold Loan\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.pdb
+D:\KFL GL\Projects\SISLS3GDLayer\S3GDALayer\bin\Debug\obj\Debug\S3GDALayer.pdb
+D:\KFL GL\Projects\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.dll
+D:\KFL GL\Projects\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GDALayer.pdb
+D:\KFL GL\Projects\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.dll
+D:\KFL GL\Projects\SISLS3GDLayer\S3GDALayer\bin\Debug\S3GBusEntity.pdb
+D:\KFL GL\Projects\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.dll
+D:\KFL GL\Projects\SISLS3GDLayer\S3GDALayer\obj\Debug\S3GDALayer.pdb
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GDALayer\bin\Debug\obj\Debug\S3GDALayer.pdb
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GDALayer\bin\Debug\S3GDALayer.dll
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GDALayer\bin\Debug\S3GDALayer.pdb
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GDALayer\bin\Debug\S3GBusEntity.dll
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GDALayer\bin\Debug\S3GBusEntity.pdb
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GDALayer\bin\Debug\S3GBusEntity.dll.config
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GDALayer\obj\Debug\S3GDALayer.csproj.CoreCompileInputs.cache
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GDALayer\obj\Debug\S3GDALayer.csproj.CopyComplete
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GDALayer\obj\Debug\S3GDALayer.dll
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GDALayer\obj\Debug\S3GDALayer.pdb
+D:\KFL GL\Projects\Axis_Bank_Biller_Integration_GL\Axis_Bank_Biller_Integration_GL\S3GDALayer\obj\Debug\S3GDALayer.csprojAssemblyReference.cache

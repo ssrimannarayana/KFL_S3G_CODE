@@ -1,0 +1,1882 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="BranchMaster_LIST" xml:space="preserve">
+    <value>S3G_Get_Branch_List</value>
+    <comment>To Get Branch List</comment>
+  </data>
+  <data name="CompanyMaster" xml:space="preserve">
+    <value>S3G_Get_CompanyMaster_List</value>
+    <comment>To Get Company List</comment>
+  </data>
+  <data name="DocumentFlagList" xml:space="preserve">
+    <value>S3G_Get_DocumentationFlag_List</value>
+    <comment>To Get Document Flag List</comment>
+  </data>
+  <data name="LOBMaster" xml:space="preserve">
+    <value>S3G_Get_LOB_LIST</value>
+    <comment>To Get Lob List</comment>
+  </data>
+  <data name="S3G_ORG_GetPaymentRuleCard" xml:space="preserve">
+    <value>S3G_ORG_GetPaymentRuleCard</value>
+    <comment>To Get PaymentRuleCard details</comment>
+  </data>
+  <data name="S3G_ORG_GetROIRules" xml:space="preserve">
+    <value>S3G_ORG_GetROIRules</value>
+    <comment>To Get ROIRules details</comment>
+  </data>
+  <data name="S3G_ORG_InsertPaymentRuleCard" xml:space="preserve">
+    <value>S3G_ORG_InsertPaymentRuleCard</value>
+    <comment>To Insert PaymentRuleCard</comment>
+  </data>
+  <data name="S3G_ORG_InsertROIRules" xml:space="preserve">
+    <value>S3G_ORG_InsertROIRules</value>
+    <comment>To Insert ROIRules</comment>
+  </data>
+  <data name="S3G_ORG_UpdatePaymentRuleCard" xml:space="preserve">
+    <value>S3G_ORG_UpdatePaymentRuleCard</value>
+    <comment>To Update PaymentRuleCard details</comment>
+  </data>
+  <data name="S3G_ORG_UpdateROIRules" xml:space="preserve">
+    <value>S3G_ORG_UpdateROIRules</value>
+    <comment>To Update ROIRules details</comment>
+  </data>
+  <data name="StatusLookUp" xml:space="preserve">
+    <value>S3G_ORG_GetStatusLookUp</value>
+    <comment>To get values from look up table</comment>
+  </data>
+  <data name="SYS_ModuleMaster" xml:space="preserve">
+    <value>S3G_Get_ModuleMaster_List</value>
+    <comment>To get module master</comment>
+  </data>
+  <data name="SYS_ProductMaster" xml:space="preserve">
+    <value>S3G_Get_Product_List</value>
+    <comment>To get product master</comment>
+  </data>
+  <data name="SYS_ProgramMaster" xml:space="preserve">
+    <value>S3G_Get_ProgramMaster_List</value>
+    <comment>To get program name</comment>
+  </data>
+  <data name="S3G_ORG_GetAssetCategory_List" xml:space="preserve">
+    <value>S3G_ORG_GetAssetCategory_List</value>
+    <comment>To get LOV  details for all dropdown list in Asset Master</comment>
+  </data>
+  <data name="S3G_ORG_GetEntity_List" xml:space="preserve">
+    <value>S3G_ORG_GetEntity_List</value>
+    <comment>To Get Entity Related List</comment>
+  </data>
+  <data name="SYS_RoleCenterCode_List" xml:space="preserve">
+    <value>S3G_Get_RoleCenterCode_List</value>
+    <comment>To get Role Center Code</comment>
+  </data>
+  <data name="SYS_RoleCenterMaster" xml:space="preserve">
+    <value>S3G_Get_RoleCenterMaster_List</value>
+  </data>
+  <data name="SYS_CurrencyMaster" xml:space="preserve">
+    <value>S3G_SYS_Get_Currency_List</value>
+    <comment>To get currency details</comment>
+  </data>
+  <data name="SYS_RoleCodeMaster" xml:space="preserve">
+    <value>S3G_Get_RoleCodeMaster_Details</value>
+    <comment>To get Role Code Details</comment>
+  </data>
+  <data name="S3G_Get_GlobalParam_Details" xml:space="preserve">
+    <value>S3G_Get_GlobalParam_Details</value>
+    <comment>TO Get Global Parameter Details</comment>
+  </data>
+  <data name="S3G_Get_ConstitutionMaster" xml:space="preserve">
+    <value>S3G_ORG_GetConstitutionMasterforLOB</value>
+    <comment>To get Constitution Master detail for  lob</comment>
+  </data>
+  <data name="S3G_ORG_GetPricing_List" xml:space="preserve">
+    <value>S3G_ORG_GetPricing_List</value>
+    <comment>TO load all Pricing Related Dropdown</comment>
+  </data>
+  <data name="S3G_ORG_GetAssetCategoryDetails_Paging" xml:space="preserve">
+    <value>S3G_ORG_GetAssetCategoryDetails_Paging</value>
+    <comment>To load Asset Category Details</comment>
+  </data>
+  <data name="S3G_ORG_GetAssetDetails_Paging" xml:space="preserve">
+    <value>S3G_ORG_GetAssetDetails_Paging</value>
+    <comment>To get asset details for grid paging</comment>
+  </data>
+  <data name="S3G_ORG_GetEntityDetails_Paging" xml:space="preserve">
+    <value>S3G_ORG_GetEntityDetails_Paging</value>
+    <comment>To get Entity details paging</comment>
+  </data>
+  <data name="SYS_UserLOBMapping" xml:space="preserve">
+    <value>S3G_Get_UserLOBMapping</value>
+    <comment>To get user lob mapping</comment>
+  </data>
+  <data name="S3G_ORG_GetEnquiryNo" xml:space="preserve">
+    <value>S3G_ORG_GetEnquiryNo</value>
+    <comment>To get Enquiry No</comment>
+  </data>
+  <data name="S3G_GET_WorkFlowIsSupported" xml:space="preserve">
+    <value>S3G_GET_WorkFlowIsSupported</value>
+    <comment>To check workflow is supported or not</comment>
+  </data>
+  <data name="S3G_ORG_GetEntityMasterVendor" xml:space="preserve">
+    <value>S3G_ORG_GetEntity_Master</value>
+    <comment>To get vendor code from entity master</comment>
+  </data>
+  <data name="S3G_ORG_GetProformaRefDocNo" xml:space="preserve">
+    <value>S3G_ORG_GetProformaRefDocNo</value>
+  </data>
+  <data name="S3G_ORG_GetROIRules_Paging" xml:space="preserve">
+    <value>S3G_ORG_GetROIRules_Paging</value>
+    <comment>To Get ROIRules Paging details</comment>
+  </data>
+  <data name="S3G_ORG_GetPaymentRuleCard_Paging" xml:space="preserve">
+    <value>S3G_ORG_GetPaymentRuleCard_Paging</value>
+    <comment>To Get PaymentRuleCard Paging details</comment>
+  </data>
+  <data name="S3G_ORG_CustomerInsertUpDate" xml:space="preserve">
+    <value>S3G_ORG_CustomerInsertUpDate</value>
+    <comment>InsertUpdate the Customer Details</comment>
+  </data>
+  <data name="S3G_ORG_GetCustomerLookUp" xml:space="preserve">
+    <value>S3G_ORG_GetCustomerLookUp</value>
+    <comment>Load Master Data for CustomerDetails</comment>
+  </data>
+  <data name="S3G_ORG_GetCustomerDetails_Paging" xml:space="preserve">
+    <value>S3G_ORG_GetCustomerDetails_Paging</value>
+    <comment> CustomerMaster - Origination</comment>
+  </data>
+  <data name="S3G_ORG_GetFIRNo" xml:space="preserve">
+    <value>S3G_ORG_GetFIRNo</value>
+    <comment>To get the Field Information Report Number to Bind it to Dropdown List Boxes</comment>
+  </data>
+  <data name="S3G_ORG_GetSanctionNo" xml:space="preserve">
+    <value>S3G_ORG_GetSanctionNo</value>
+    <comment>To Get the Sanction Number</comment>
+  </data>
+  <data name="S3G_ORG_GetEnquiryNumberforAssignment" xml:space="preserve">
+    <value>S3G_ORG_GetEnquiryNumberforAssignment</value>
+    <comment>To get the Enquiry number for which values need to be assigned</comment>
+  </data>
+  <data name="S3G_ORG_GetProformaNo" xml:space="preserve">
+    <value>S3G_ORG_GetProformaNo</value>
+    <comment>To get Proforma No for TransLander</comment>
+  </data>
+  <data name="S3G_Get_Customer_Code" xml:space="preserve">
+    <value>S3G_Get_Customer_Code</value>
+    <comment>To get the customer code information to fill with the dropdpwn box</comment>
+  </data>
+  <data name="S3G_Get_Enquiry_No" xml:space="preserve">
+    <value>S3G_Get_Enquiry_No</value>
+    <comment>To get the Enquiry Number Details</comment>
+  </data>
+  <data name="S3G_ORG_GetCreditParameterTransactionNo" xml:space="preserve">
+    <value>S3G_ORG_GetCreditParameterTransactionNo</value>
+    <comment>To get the Transaction Numbers</comment>
+  </data>
+  <data name="S3G_ORG_Get_Appraised_Enquiry_Customer" xml:space="preserve">
+    <value>S3G_ORG_Get_Appraised_Enquiry_Customer</value>
+    <comment>To get the enquiry number which have been force apppraised</comment>
+  </data>
+  <data name="S3G_ORG_Get_Router_Enquiry" xml:space="preserve">
+    <value>S3G_ORG_Get_Router_Enquiry</value>
+    <comment>Enquiry numbers for which details have been assigned</comment>
+  </data>
+  <data name="S3G_ORG_Get_PricingApprovalOffer_No" xml:space="preserve">
+    <value>S3G_ORG_Get_PricingApprovalOffer_No</value>
+    <comment>To get pricing approval offer no</comment>
+  </data>
+  <data name="S3G_ORG_GetApplicationNoForTL" xml:space="preserve">
+    <value>S3G_ORG_GetApplicationNoForTL</value>
+    <comment>To get Approval  Number</comment>
+  </data>
+  <data name="S3G_ORG_GetApplicationNumber" xml:space="preserve">
+    <value>S3G_ORG_GetApplicationNumber</value>
+    <comment>To get the Approval Number</comment>
+  </data>
+  <data name="S3G_ORG_GetCreditParameterTranaction_Approval" xml:space="preserve">
+    <value>S3G_ORG_GetCreditParameterTranaction_Approval</value>
+    <comment>To get the credit Parameter Approval</comment>
+  </data>
+  <data name="S3G_ORG_Get_Appraised_Customer" xml:space="preserve">
+    <value>S3G_ORG_Get_Appraised_Customer</value>
+    <comment>To ge the list of force appraised customer</comment>
+  </data>
+  <data name="S3G_ORG_PRDDT" xml:space="preserve">
+    <value>S3G_ORG_GetPRDDTNo</value>
+  </data>
+  <data name="S3G_Get_Enquiry_No_CPA" xml:space="preserve">
+    <value>S3G_Get_Enquiry_No_CPA</value>
+    <comment>To get the Enquiry Number Based on the Credit Parameter Transaction</comment>
+  </data>
+  <data name="S3G_Get_Customer_Code_CPA" xml:space="preserve">
+    <value>S3G_Get_Customer_Code_CPA</value>
+    <comment>To get the Customer Code based on the Credit PArameter Transaction</comment>
+  </data>
+  <data name="S3G_ORG_GetCurrencyMaster" xml:space="preserve">
+    <value>S3G_ORG_GetCurrencyMaster</value>
+    <comment>To get the currency Master</comment>
+  </data>
+  <data name="S3G_Get_Customer_Code_CPT" xml:space="preserve">
+    <value>S3G_Get_Customer_Code_CPT</value>
+    <comment>To get the Customer code from Credit Parameter Transaction</comment>
+  </data>
+  <data name="S3G_Get_Enquiry_No_CPT" xml:space="preserve">
+    <value>S3G_Get_Enquiry_No_CPT</value>
+    <comment>To get the enquiry number from the CPT</comment>
+  </data>
+  <data name="S3G_ORG_GetCreditParameterDetails_CutomerQuery" xml:space="preserve">
+    <value>S3G_ORG_GetCreditParameterDetails_CutomerQuery</value>
+    <comment>To get the CPA for customer mode</comment>
+  </data>
+  <data name="S3G_LOANAD_GetMLANO" xml:space="preserve">
+    <value>S3G_LOANAD_GetMLANO</value>
+    <comment>To get MLA No for Factoring Invoice Loading Form</comment>
+  </data>
+  <data name="S3G_LOANAD_GetSLANO" xml:space="preserve">
+    <value>S3G_LOANAD_GetSLANO</value>
+    <comment>To get SLA No for Factoring Invoice Loading Form</comment>
+  </data>
+  <data name="S3G_LOANAD_GetFactoringLOB" xml:space="preserve">
+    <value>S3G_LOANAD_GetFactoringLOB</value>
+    <comment>To get Lob Name(Factoring Only)</comment>
+  </data>
+  <data name="S3G_LOANAD_GetLOBCode" xml:space="preserve">
+    <value>S3G_LOANAD_GetLOBList</value>
+  </data>
+  <data name="S3G_LOANAD_GetPaymentRequestNo" xml:space="preserve">
+    <value>S3G_LOANAD_GetPaymentRequestNo</value>
+    <comment>To get the Payment Request Number</comment>
+  </data>
+  <data name="SYS_LOADAD_GetVendor" xml:space="preserve">
+    <value>S3G_LOANAD_GetVendorCode</value>
+    <comment>To get vendor code details</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAssetsVerified" xml:space="preserve">
+    <value>S3G_LOANAD_GetAssetsVerified</value>
+    <comment>To get the assets that have been verified</comment>
+  </data>
+  <data name="S3G_LOANAD_GetCustomerDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetCustomerDetails</value>
+    <comment>To get the Customer Information by Customer_ID</comment>
+  </data>
+  <data name="S3G_ORG_GetEntity_Master" xml:space="preserve">
+    <value>S3G_ORG_GetEntity_Master</value>
+    <comment>To get the Entity Master Details by company ID</comment>
+  </data>
+  <data name="S3G_LOANAD_DeliveryIns" xml:space="preserve">
+    <value>S3G_LOANAD_GetDeliveryInsLPO</value>
+    <comment>Toget Delivey LPO</comment>
+  </data>
+  <data name="S3G_LOANAD_GetPANum" xml:space="preserve">
+    <value>S3G_LOANAD_GetPANum</value>
+    <comment>To get the Permanent account number</comment>
+  </data>
+  <data name="S3G_LOANAD_GetSANum" xml:space="preserve">
+    <value>S3G_LOANAD_GetSANum</value>
+    <comment>To get the realted San Number</comment>
+  </data>
+  <data name="S3G_LOANAD_InsertAccountActivation" xml:space="preserve">
+    <value>S3G_LOANAD_InsertAccountActivation</value>
+    <comment>To Activate the Account</comment>
+  </data>
+  <data name="S3G_LOANAD_GetSANAssetCode" xml:space="preserve">
+    <value>S3G_LOANAD_GetSANAssetCode</value>
+    <comment>To get SANum related asset code</comment>
+  </data>
+  <data name="S3G_ORG_GetGlobalIRRDetails" xml:space="preserve">
+    <value>S3G_ORG_GetGlobalIRRDetails</value>
+    <comment>To Get IRR and PLR Rate from Global Parameter</comment>
+  </data>
+  <data name="S3G_LOANAD_GetLookupTypeDescription" xml:space="preserve">
+    <value>S3G_LOANAD_GetLookupTypeDescription</value>
+    <comment>To get the desription from lookuptable</comment>
+  </data>
+  <data name="S3G_LOANAD_InsertMonthClosure" xml:space="preserve">
+    <value>S3G_LOANAD_InsertMonthClosure</value>
+    <comment>Insert Month Closure</comment>
+  </data>
+  <data name="S3G_LoanAd_GetPaymentRequest" xml:space="preserve">
+    <value>S3G_LoanAd_GetPaymentRequest</value>
+    <comment>To get the Payment Request Information</comment>
+  </data>
+  <data name="S3G_LOANAD_GetFILNOTransLand" xml:space="preserve">
+    <value>S3G_LOANAD_GetFILNOTransLand</value>
+    <comment>To get Factoring Invoice No </comment>
+  </data>
+  <data name="S3G_LOANAD_GetInvoiceNumber" xml:space="preserve">
+    <value>S3G_LOANAD_GetInvoiceNumber</value>
+    <comment>To get the Invoice number related to PANum and SANum</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAssetVendorDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetAssetVendorDetails</value>
+    <comment>To get the Vendor details realted to assets</comment>
+  </data>
+  <data name="S3G_LOANAD_GetApprovalReqDetail" xml:space="preserve">
+    <value>S3G_LOANAD_GetApprovalReqDetail</value>
+    <comment>To get Payment Req_No  </comment>
+  </data>
+  <data name="S3G_LOANAD_GetEntityDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetEntityDetails</value>
+    <comment>To get the GL and SL Code from AccountSetupMaster - releated to Entity ID - from Entity Master</comment>
+  </data>
+  <data name="S3G_LOANAD_GetPaymentApprovalReqNo" xml:space="preserve">
+    <value>S3G_LOANAD_GetPaymentApprovalReqNo</value>
+    <comment>To Get PaymentReq No for Translander</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAssetMaster" xml:space="preserve">
+    <value>S3G_LOANAD_GetAssetMaster</value>
+    <comment>To get the AssetMaster table to load to the Dropdown lists.</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAssetsIdentified" xml:space="preserve">
+    <value>S3G_LOANAD_GetAssetsIdentified</value>
+    <comment>To get the Asset Identification number</comment>
+  </data>
+  <data name="S3G_LOANAD_GetLeaseAssetSaleLOB" xml:space="preserve">
+    <value>S3G_LOANAD_GetLeaseAssetSaleLOB</value>
+    <comment>Lease Asset sale</comment>
+  </data>
+  <data name="S3G_LOANAD_GetLookUpValues" xml:space="preserve">
+    <value>S3G_LOANAD_GetLookUpValues</value>
+    <comment>To get values from lookup table</comment>
+  </data>
+  <data name="S3G_LOANAD_GetPANSANDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetPANSANDetails</value>
+    <comment>To get the PAN and SAN Details</comment>
+  </data>
+  <data name="S3G_LOANAD_GetProgram_Ref_No" xml:space="preserve">
+    <value>S3G_LOANAD_GetProgram_Ref_No</value>
+    <comment>To get the Program_Ref_No from the Program Master</comment>
+  </data>
+  <data name="S3G_LOANAD_GetEntitycode" xml:space="preserve">
+    <value>S3G_LOANAD_GetEntitycode</value>
+    <comment>To get Entity Code</comment>
+  </data>
+  <data name="S3G_LOANAD_GetEntityName" xml:space="preserve">
+    <value>S3G_LOANAD_GetEntityName</value>
+    <comment>To Get Entity Name</comment>
+  </data>
+  <data name="S3G_LOANAD_GetApprovalCommonDetail" xml:space="preserve">
+    <value>S3G_LOANAD_GetApprovalCommonDetail</value>
+    <comment>To get Approval Common Detail</comment>
+  </data>
+  <data name="S3G_LOANAD_GetLASNUMTransLand" xml:space="preserve">
+    <value>S3G_LOANAD_GetLASNUMTransLand</value>
+    <comment>To get LAS No</comment>
+  </data>
+  <data name="S3G_LOANAD_GetOperatingLeaseLOBBranch" xml:space="preserve">
+    <value>S3G_LOANAD_GetOperatingLeaseLOBBranch</value>
+    <comment>To get the LOB and Branch related to Operational Lease LOB</comment>
+  </data>
+  <data name="S3G_LOANAD_GetOperatingLeaseExpensesLOB" xml:space="preserve">
+    <value>S3G_LOANAD_GetOperatingLeaseExpensesLOB</value>
+    <comment>To get LOB for operating Leaes Expenses</comment>
+  </data>
+  <data name="S3G_LOANAD_GetLeaseAssetNo" xml:space="preserve">
+    <value>S3G_LOANAD_GetLeaseAssetNo</value>
+    <comment>To get Lease Asset No</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAssetDesc" xml:space="preserve">
+    <value>S3G_LOANAD_GetAssetDesc</value>
+    <comment>Get Asset Descrption and PANUM,SANUM</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAccountDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetAccountDetails</value>
+    <comment>To get the LoanAdmin details</comment>
+  </data>
+  <data name="S3G_LOANAD_GetDepreciatedSJV" xml:space="preserve">
+    <value>S3G_LOANAD_GetDepreciatedSJV</value>
+    <comment>To get the Depreciated SJV Numbers</comment>
+  </data>
+  <data name="S3G_LOANAD_InsertAssetAcquisition" xml:space="preserve">
+    <value>S3G_LOANAD_InsertAssetAcquisition</value>
+    <comment>To Insert Asset Acquisition</comment>
+  </data>
+  <data name="S3G_LOANAD_GetBulkRevisionNo" xml:space="preserve">
+    <value>S3G_LOANAD_GetBulkRevisionNo</value>
+    <comment>To get the Bulk Revision Number</comment>
+  </data>
+  <data name="S3G_LOANAD_GetLOBNOCTermination" xml:space="preserve">
+    <value>S3G_LOANAD_GetLOBNOCTermination</value>
+    <comment>To get the LOBfor NOC Termination</comment>
+  </data>
+  <data name="S3G_LOANAD_LoadApplicationNo" xml:space="preserve">
+    <value>S3G_LOANAD_LoadApplicationNo</value>
+    <comment>To Load ApplicationNo DDL</comment>
+  </data>
+  <data name="S3G_LOANAD_GetOverDueCuscode" xml:space="preserve">
+    <value>S3G_LOANAD_GetOverDueCuscode</value>
+    <comment>To get Customer Code for Over Due Interest</comment>
+  </data>
+  <data name="S3G_LOANAD_GetPANumForAccountClosure" xml:space="preserve">
+    <value>S3G_LOANAD_GetPANumForAccountClosure</value>
+    <comment>to get the Account details for PAN, SAN number</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAccCons_Split_List" xml:space="preserve">
+    <value>S3G_LOANAD_GetAccCons_Split_List</value>
+    <comment>To Get Deatils of Acc Consolidation/Account Split Dropdowns</comment>
+  </data>
+  <data name="S3G_LOANAD_InsertAccountConsolidation" xml:space="preserve">
+    <value>S3G_LOANAD_InsertAccountConsolidation</value>
+    <comment>To Insert Account Consolidation </comment>
+  </data>
+  <data name="S3G_LOANAD_GetAssetAcquisition" xml:space="preserve">
+    <value>S3G_LOANAD_GetAssetAcquisition</value>
+    <comment>To Get Asset Acquisition Details</comment>
+  </data>
+  <data name="S3G_LOANAD_GetPANumforNocTermination" xml:space="preserve">
+    <value>S3G_LOANAD_GetPANumforNocTermination</value>
+    <comment>To get the Prime Account no for Noc Termination </comment>
+  </data>
+  <data name="S3G_LOANAD_GetDetailsforNOCTermination" xml:space="preserve">
+    <value>S3G_LOANAD_GetDetailsforNOCTermination</value>
+    <comment>To get the Details For Noc Termination</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAssetAcquisitionID" xml:space="preserve">
+    <value>S3G_LOANAD_GetAssetAcquisitionID</value>
+    <comment>To Get Assets Acquisition ID</comment>
+  </data>
+  <data name="S3G_LOANAD_GetPLASLA_List" xml:space="preserve">
+    <value>S3G_LOANAD_GetPLASLA_List</value>
+    <comment>To get PLA SLA Number Details</comment>
+  </data>
+  <data name="S3G_LOANAD_GetGLSLAcc_List" xml:space="preserve">
+    <value>S3G_LOANAD_GetGLSLAcc_List</value>
+    <comment>To get GL/SL details based on Entitytype / GLCode</comment>
+  </data>
+  <data name="S3G_LOANAD_GetNocTerminationID" xml:space="preserve">
+    <value>S3G_LOANAD_GetNocTerminationID</value>
+    <comment>To get the Noc ID for TransLander</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAccConsolidation_List" xml:space="preserve">
+    <value>S3G_LOANAD_GetAccConsolidation_List</value>
+  </data>
+  <data name="S3G_LOANAD_GetExistingRevised" xml:space="preserve">
+    <value>S3G_LOANAD_GetExistingRevised</value>
+    <comment>To get the Existing revision for the account specification</comment>
+  </data>
+  <data name="S3G_LoanAd_GetApplicationProcessDetails" xml:space="preserve">
+    <value>S3G_LoanAd_GetApplicationProcessDetails</value>
+    <comment>To Get Application Process Details in Account Creation</comment>
+  </data>
+  <data name="S3G_LOANAD_InsertAccountCreation" xml:space="preserve">
+    <value>S3G_LOANAD_InsertAccountCreation</value>
+    <comment>To Insert the Account Creation and its Details</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAccountsClosured" xml:space="preserve">
+    <value>S3G_LOANAD_GetClosedAccounts</value>
+    <comment>To get the closured accounts</comment>
+  </data>
+  <data name="S3G_LOANAD_GetExistingRevisedIRR" xml:space="preserve">
+    <value>S3G_LOANAD_GetExistingRevisedIRR</value>
+    <comment>To get the Existing and Revised IRR Details - by MLA and SLA</comment>
+  </data>
+  <data name="S3G_LOANAD_GetEntity" xml:space="preserve">
+    <value>S3G_LOANAD_GetEntity</value>
+    <comment>To get the Entity Type ID </comment>
+  </data>
+  <data name="S3G_LOANAD_GetMJV_List" xml:space="preserve">
+    <value>S3G_LOANAD_GetMJV_List</value>
+    <comment>To get MJV list</comment>
+  </data>
+  <data name="S3G_LOANAD_GetEmployeeInspectorCode" xml:space="preserve">
+    <value>S3G_LOANAD_GetEmployeeInspectorCode</value>
+    <comment>To get the user list </comment>
+  </data>
+  <data name="S3G_LOANAD_GetSpecificRevisionNo" xml:space="preserve">
+    <value>S3G_LOANAD_GetSpecificRevisionNo</value>
+    <comment>To get the Specific Revision Number</comment>
+  </data>
+  <data name="S3G_LOANAD_TransLander_SpecificRevision" xml:space="preserve">
+    <value>S3G_LOANAD_TransLander_SpecificRevision</value>
+    <comment>To get the Translander Specific Revision</comment>
+  </data>
+  <data name="S3G_LOANAD_InsertODICalculations" xml:space="preserve">
+    <value>S3G_LOANAD_InsertODICalculations</value>
+    <comment>To Insert OverDueInterest Calculations</comment>
+  </data>
+  <data name="S3G_LOANAD_GetCashMntlyBk_List" xml:space="preserve">
+    <value>S3G_LOANAD_GetCashMntlyBk_List</value>
+    <comment> Monthly booking dropdown lists</comment>
+  </data>
+  <data name="S3G_LOANAD_GetODICalculations" xml:space="preserve">
+    <value>S3G_LOANAD_GetODICalculations</value>
+    <comment>To Get OverDueInterest Calculations</comment>
+  </data>
+  <data name="S3G_LoanAd_GetSpecificRevision" xml:space="preserve">
+    <value>S3G_LoanAd_GetSpecificRevision</value>
+    <comment>To get the specific revision detailsi on query/modify mode</comment>
+  </data>
+  <data name="S3G_LOANAD_GetNocTerminationDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetNocTerminationDetails</value>
+    <comment>to get Noc Details in Query Mode</comment>
+  </data>
+  <data name="S3G_LOANAD_GetGlobalParameters" xml:space="preserve">
+    <value>S3G_LOANAD_GetGlobalParameters</value>
+    <comment>To get the values from global parameters</comment>
+  </data>
+  <data name="S3G_Get_Company_Details" xml:space="preserve">
+    <value>S3G_Get_Company_Details</value>
+    <comment>This is to get the company details </comment>
+  </data>
+  <data name="S3G_LOANAD_GetFactoringInvoiceDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetFactoringInvoiceDetails</value>
+    <comment>To get the FIL Information</comment>
+  </data>
+  <data name="S3G_SYSAD_GetGlobalMLASLA" xml:space="preserve">
+    <value>S3G_SYSAD_GetGlobalMLASLA</value>
+    <comment>To get the applicability of MLA/SLA for a LOB</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAccountRepayDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetAccountRepayDetails</value>
+    <comment>To get the Account repay details</comment>
+  </data>
+  <data name="S3G_LOANAD_GetCashFlowDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetCashFlowDetails</value>
+    <comment>To get the Cashflow details by PANUM and SANUM</comment>
+  </data>
+  <data name="S3G_LOANAD_GetPASARefID" xml:space="preserve">
+    <value>S3G_LOANAD_GetPASARefID</value>
+    <comment>To get the PASAref ID</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAccountsActivated" xml:space="preserve">
+    <value>S3G_LOANAD_GetAccountsActivated</value>
+    <comment>To get the Activated accounts</comment>
+  </data>
+  <data name="S3G_LOANAD_GetInvoiceImage" xml:space="preserve">
+    <value>S3G_LOANAD_GetInvoiceImage</value>
+    <comment>To get the Invoicce image path</comment>
+  </data>
+  <data name="S3G_LOANAD_GetProformaImage" xml:space="preserve">
+    <value>S3G_LOANAD_GetProformaImage</value>
+    <comment>To get the Proforma Image path</comment>
+  </data>
+  <data name="S3G_LOANAD_GetTLEWC" xml:space="preserve">
+    <value>S3G_LOANAD_GetTLEWC</value>
+    <comment>TO GET TLEWC</comment>
+  </data>
+  <data name="S3G_LOANAD_AccountAssetCount" xml:space="preserve">
+    <value>S3G_LOANAD_AccountAssetCount</value>
+    <comment>To ge t he asset id for the account</comment>
+  </data>
+  <data name="S3G_LOANAD_GetIsDeliveryOrder" xml:space="preserve">
+    <value>S3G_LOANAD_GetIsDeliveryOrder</value>
+    <comment>To get the Delivery order for the asset</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAccConsDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetAccConsDetails</value>
+    <comment>To Get Account Consolidation Details</comment>
+  </data>
+  <data name="S3G_LOANAD_GetOperatingLeaseExpensesDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetOperatingLeaseExpensesDetails</value>
+    <comment>To get the Lease Asset Details</comment>
+  </data>
+  <data name="S3G_LOANAD_GetPreClosedAccounts" xml:space="preserve">
+    <value>S3G_LOANAD_GetPreClosedAccounts</value>
+    <comment>To get Premature Closed accounts</comment>
+  </data>
+  <data name="S3G_LOANAD_GetOLENUMTransLand" xml:space="preserve">
+    <value>S3G_LOANAD_GetOLENUMTransLand</value>
+    <comment>To get the Operating Lease Expenses No for Landing Page</comment>
+  </data>
+  <data name="S3G_Get_Currency_Details_ByCompanyID" xml:space="preserve">
+    <value>S3G_Get_Currency_Details_ByCompanyID</value>
+    <comment>To get the currency Code</comment>
+  </data>
+  <data name="S3G_LOANAD_InsertArchiveDetails" xml:space="preserve">
+    <value>S3G_LOANAD_InsertArchiveDetails</value>
+    <comment>This is to  insert the Archeive details - for Account Specification.</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAccountClosureSANum" xml:space="preserve">
+    <value>S3G_LOANAD_GetAccountClosureSANum</value>
+    <comment>To get SANum mapped to PANum</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAccountRepayDetails_ByPASA" xml:space="preserve">
+    <value>S3G_LOANAD_GetAccountRepayDetails_ByPASA</value>
+    <comment>This is to get the repaydetails - by PASA num</comment>
+  </data>
+  <data name="S3G_LOANAD_AccountViewFromActivation" xml:space="preserve">
+    <value>S3G_LOANAD_AccountViewFromActivation</value>
+    <comment>To get details for account view</comment>
+  </data>
+  <data name="S3G_LOANAD_GetOverDueInterestLOB" xml:space="preserve">
+    <value>S3G_LOANAD_GetOverDueInterestLOB</value>
+    <comment>To get the LOB for Over Due Interest</comment>
+  </data>
+  <data name="S3G_LOANAD_GetPANumCustomer" xml:space="preserve">
+    <value>S3G_LOANAD_GetPANumCustomer</value>
+    <comment>To get Pan related customer information</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAccountDetailsForCalculation" xml:space="preserve">
+    <value>S3G_LOANAD_GetAccountDetailsForCalculation</value>
+    <comment>To get details for Account details for Activation</comment>
+  </data>
+  <data name="S3G_LOANAD_GetNocDetailsBySAN" xml:space="preserve">
+    <value>S3G_LOANAD_GetNocDetailsBySAN</value>
+    <comment>To get the Noc details by Sub A/c No</comment>
+  </data>
+  <data name="S3G_ORG_GetEnquiryDetailsCGT_Paging" xml:space="preserve">
+    <value>S3G_ORG_GetEnquiryDetailsCGT_Paging</value>
+    <comment>To get Enquiry and customer details for CGT</comment>
+  </data>
+  <data name="S3G_Get_ExchangeRate_Details" xml:space="preserve">
+    <value>S3G_Get_ExchangeRate_Details</value>
+    <comment>This is to get the Exchange rate values.</comment>
+  </data>
+  <data name="S3G_LOANAD_CancelPaymentRequest" xml:space="preserve">
+    <value>S3G_LOANAD_CancelPaymentRequest</value>
+    <comment>This is to cancel the payment status</comment>
+  </data>
+  <data name="S3G_LOANAD_ActivatedPANum" xml:space="preserve">
+    <value>S3G_LOANAD_ActivatedPANum</value>
+  </data>
+  <data name="S3G_LOANAD_LOBASSETIDEN" xml:space="preserve">
+    <value>S3G_LOANAD_LOBASSETIDEN</value>
+    <comment>S3G_LOANAD_LOBASSETIDEN</comment>
+  </data>
+  <data name="S3G_LOANAD_CountNOCTermination" xml:space="preserve">
+    <value>S3G_LOANAD_CountNOCTermination</value>
+    <comment>To set the NOC Termination Status</comment>
+  </data>
+  <data name="S3G_LOANAD_GetLeaseAssetSaleDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetLeaseAssetSaleDetails</value>
+    <comment>To get the  Lease Asset sale Details</comment>
+  </data>
+  <data name="S3G_LoanAd_GetGroupAccountAssetDetails" xml:space="preserve">
+    <value>S3G_LoanAd_GetGroupAccountAssetDetails</value>
+    <comment>This is to get the asset details - by pan and san</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAssetCodeDesc" xml:space="preserve">
+    <value>S3G_LOANAD_GetAssetCodeDesc</value>
+    <comment>To get the Asset Detail for Lease Asset Sale</comment>
+  </data>
+  <data name="S3G_LOANAD_GetDepreciationDate" xml:space="preserve">
+    <value>S3G_LOANAD_GetDepreciationDate</value>
+    <comment>To get the last depreciation date</comment>
+  </data>
+  <data name="S3G_LOANAD_UpdatePaymentRequestIsPrint" xml:space="preserve">
+    <value>S3G_LOANAD_UpdatePaymentRequestIsPrint</value>
+    <comment>To change the status of Checqu and Voucher print status</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAssetDetailsForInvoice" xml:space="preserve">
+    <value>S3G_LOANAD_GetAssetDetailsForInvoice</value>
+  </data>
+  <data name="S3G_LOANAD_GetPaymentAdjustments" xml:space="preserve">
+    <value>S3G_LOANAD_GetPaymentAdjustments</value>
+    <comment>To get the Payment Adjustment Details</comment>
+  </data>
+  <data name="S3G_LOANAD_GetDepreciationMethod" xml:space="preserve">
+    <value>S3G_LOANAD_GetDepreciationMethod</value>
+    <comment>To get Depreciation type</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAssetDepreciationDetail" xml:space="preserve">
+    <value>S3G_LOANAD_GetAssetDepreciationDetail</value>
+  </data>
+  <data name="S3G_LOANAD_GetPANumforLeaseAssetSale" xml:space="preserve">
+    <value>S3G_LOANAD_GetPANumforLeaseAssetSale</value>
+  </data>
+  <data name="S3G_LOANAD_GetSLANOForLeaseAssetSale" xml:space="preserve">
+    <value>S3G_LOANAD_GetSLANOForLeaseAssetSale</value>
+    <comment>To get San no for Lease asset Sale</comment>
+  </data>
+  <data name="S3G_LOANAD_InsertArchiveDetailsFromSpecific" xml:space="preserve">
+    <value>S3G_LOANAD_InsertArchiveDetailsFromSpecific</value>
+    <comment>This is to revise the Repayment</comment>
+  </data>
+  <data name="S3G_CLN_GetAsset" xml:space="preserve">
+    <value>S3G_CLN_GetAsset</value>
+    <comment>To get the asset details based on LOB &amp; Branch</comment>
+  </data>
+  <data name="S3G_CLN_GetCustomer" xml:space="preserve">
+    <value>S3G_CLN_GetCustomer</value>
+    <comment>To get the customer details based on  Lob &amp; Branch</comment>
+  </data>
+  <data name="S3G_CLN_GetPANum" xml:space="preserve">
+    <value>S3G_CLN_GetPANum</value>
+    <comment>To get PAN based on Customer code</comment>
+  </data>
+  <data name="S3G_CLN_GetMVNumber" xml:space="preserve">
+    <value>S3G_CLN_GetMVNumber</value>
+    <comment>To get MV no In Translander page</comment>
+  </data>
+  <data name="S3G_ORG_GetSanctionDetails" xml:space="preserve">
+    <value>S3G_ORG_GetSanctionDetails</value>
+  </data>
+  <data name="S3G_CLN_GetMemoMaster" xml:space="preserve">
+    <value>S3G_CLN_GetMemoMaster</value>
+    <comment>TO GET MENO Number</comment>
+  </data>
+  <data name="S3G_ORG_GetCreditParameterTranaction_CusMode" xml:space="preserve">
+    <value>S3G_ORG_GetCreditParameterTranaction_CusMode</value>
+    <comment>To get the facility amount</comment>
+  </data>
+  <data name="S3G_LOANAD_GetBaseValue" xml:space="preserve">
+    <value>S3G_LOANAD_GetBaseValue</value>
+  </data>
+  <data name="S3G_ORG_IsEnquiry" xml:space="preserve">
+    <value>S3G_ORG_IsEnquiry</value>
+    <comment>To get the Approval Mode</comment>
+  </data>
+  <data name="S3G_CLN_GetAppropriateNumber" xml:space="preserve">
+    <value>S3G_CLN_GetAppropriateNumber</value>
+    <comment>To Get Appropriation Logic Id</comment>
+  </data>
+  <data name="S3G_ORG_GetCustomerDetailsByCustomerId" xml:space="preserve">
+    <value>S3G_ORG_GetCustomerDetailsByCustomerId</value>
+    <comment>To get the records - by customer wise</comment>
+  </data>
+  <data name="S3G_CLN_GetDelinquentsforModify" xml:space="preserve">
+    <value>S3G_CLN_GetDelinquentsforModify</value>
+  </data>
+  <data name="S3G_CLN_GetDelinquents" xml:space="preserve">
+    <value>S3G_CLN_GetDelinquents</value>
+  </data>
+  <data name="S3G_CLN_GetDelinquencyType" xml:space="preserve">
+    <value>S3G_CLN_GetDelinquencyType</value>
+  </data>
+  <data name="S3G_CLN_DeactivateDelinquencyType" xml:space="preserve">
+    <value>S3G_CLN_DeactivateDelinquencyType</value>
+  </data>
+  <data name="S3G_CLN_GetBucketparameterDetails" xml:space="preserve">
+    <value>S3G_CLN_GetBucketparameterDetails</value>
+    <comment>To get the Bucket Parameter Details</comment>
+  </data>
+  <data name="S3G_CLN_GetChequesReturned" xml:space="preserve">
+    <value>S3G_CLN_GetChequesReturned</value>
+  </data>
+  <data name="S3G_CLN_GetChequeDetailsforAuthorization" xml:space="preserve">
+    <value>S3G_CLN_GetChequeDetailsforAuthorization</value>
+  </data>
+  <data name="S3G_CLN_GetChequeForView" xml:space="preserve">
+    <value>S3G_CLN_GetChequeForView</value>
+  </data>
+  <data name="S3G_CLN_GetChallanRuleDetails" xml:space="preserve">
+    <value>S3G_CLN_GetChallanRuleDetails</value>
+    <comment>To get the Challan Rules Details</comment>
+  </data>
+  <data name="S3G_CLN_GetBankNames" xml:space="preserve">
+    <value>S3G_CLN_GetBankNames</value>
+    <comment>To get the Bank Names</comment>
+  </data>
+  <data name="S3G_CLN_GetDebtCollectorCode" xml:space="preserve">
+    <value>S3G_CLN_GetDebtCollectorCode</value>
+    <comment>To Gell all the DebtCollector Code based on Branch , LOB and company</comment>
+  </data>
+  <data name="S3G_CLN_GetChequeReceiptBatch" xml:space="preserve">
+    <value>S3G_CLN_GetChequeReceiptBatch</value>
+    <comment>To get the batch number of receipt</comment>
+  </data>
+  <data name="S3G_CLN_DetailsForReceptCheque" xml:space="preserve">
+    <value>S3G_CLN_DetailsForReceptCheque</value>
+  </data>
+  <data name="S3G_CLN_Dbt_Incentive_Processing" xml:space="preserve">
+    <value>S3G_CLN_Dbt_Incentive_Processing</value>
+    <comment>Incentive Processing Logic</comment>
+  </data>
+  <data name="S3G_CLN_GetPDCEntryDetails" xml:space="preserve">
+    <value>S3G_CLN_GetPDCEntryDetails</value>
+    <comment>To get the PDC Entry Details</comment>
+  </data>
+  <data name="S3G_CLN_InsertDCIncenticeProcessing" xml:space="preserve">
+    <value>S3G_CLN_InsertDCIncenticeProcessing</value>
+    <comment>To Insert Debt Collection Incentive Process Data Rows </comment>
+  </data>
+  <data name="S3G_CLN_GetAppLogicReceiptTypes" xml:space="preserve">
+    <value>S3G_CLN_GetAppLogicReceiptTypes</value>
+    <comment>To Get Receipt types for appropriation Logic</comment>
+  </data>
+  <data name="S3G_CLN_GetChallanListings" xml:space="preserve">
+    <value>S3G_CLN_GetChallanListings</value>
+    <comment>To List challan details</comment>
+  </data>
+  <data name="S3G_CLN_GetChallanReceiptType" xml:space="preserve">
+    <value>S3G_CLN_GetChallanReceiptType</value>
+    <comment>To get Receipt Type </comment>
+  </data>
+  <data name="S3G_CLN_GetDraweeBank" xml:space="preserve">
+    <value>S3G_CLN_GetDraweeBank</value>
+    <comment>To get Drawee bank for challan Generation</comment>
+  </data>
+  <data name="S3G_CLN_GetECSListing" xml:space="preserve">
+    <value>S3G_CLN_GetECSListing</value>
+    <comment>To get the ECS List values</comment>
+  </data>
+  <data name="S3G_CLN_GetECSProcess" xml:space="preserve">
+    <value>S3G_CLN_GetECSProcess</value>
+    <comment>To get ECS process details</comment>
+  </data>
+  <data name="S3G_CLN_GetFBDate" xml:space="preserve">
+    <value>S3G_CLN_GetFBDate</value>
+    <comment>To get fixed billing date</comment>
+  </data>
+  <data name="S3G_CLN_GetMarketEntryValue" xml:space="preserve">
+    <value>S3G_CLN_GetMarketEntryValue</value>
+    <comment>To get Edit Market value</comment>
+  </data>
+  <data name="S3G_CLN_GetMarketValue" xml:space="preserve">
+    <value>S3G_CLN_GetMarketValue</value>
+    <comment>To get Market Value</comment>
+  </data>
+  <data name="S3G_CLN_GetDCCommissionDetails" xml:space="preserve">
+    <value>S3G_CLN_GetDCCommissionDetails</value>
+    <comment>To get Debt Collector Commission Details for the provided Commission Id</comment>
+  </data>
+  <data name="S3G_CLN_GetPDCModuleDetails" xml:space="preserve">
+    <value>S3G_CLN_GetPDCModuleDetails</value>
+    <comment>To get the Detaila of PDC Entry</comment>
+  </data>
+  <data name="S3G_ORG_ProductForPRDDC" xml:space="preserve">
+    <value>S3G_ORG_ProductForPRDDC</value>
+  </data>
+  <data name="S3G_ORG_GetTenureType" xml:space="preserve">
+    <value>S3G_ORG_GetTenureType</value>
+  </data>
+  <data name="S3G_LOANAD_GetSpecificLOBList" xml:space="preserve">
+    <value>S3G_LOANAD_GetSpecificLOBList</value>
+  </data>
+  <data name="S3G_ORG_GetEnquiryTenureType" xml:space="preserve">
+    <value>S3G_ORG_GetEnquiryTenureType</value>
+  </data>
+  <data name="S3G_ORG_GetGlobalParametermaster" xml:space="preserve">
+    <value>S3G_ORG_GetGlobalParametermaster</value>
+  </data>
+  <data name="LOBApprovalDistinct" xml:space="preserve">
+    <value>S3G_Get_LOB_DISTINCTLIST</value>
+    <comment>To get the distinct list of LOB's which are already assigned to a customer</comment>
+  </data>
+  <data name="LOBDISTINCT" xml:space="preserve">
+    <value>S3G_Get_LOB_DISTINCTLIST</value>
+    <comment>to get the distinct LOB LIST</comment>
+  </data>
+  <data name="S3G_LOANAD_DenominationDays" xml:space="preserve">
+    <value>S3G_LOANAD_GetDenominationDays</value>
+    <comment>to get the denomination Details</comment>
+  </data>
+  <data name="S3G_LOANAD_GetDenominationDays" xml:space="preserve">
+    <value>S3G_LOANAD_GetDenominationDays</value>
+    <comment>get the denomination days</comment>
+  </data>
+  <data name="S3G_LOANAD_GetCustomer" xml:space="preserve">
+    <value>S3G_LOANAD_GetCustomer</value>
+  </data>
+  <data name="S3G_LOANAD_GetDDLValue" xml:space="preserve">
+    <value>S3G_LOANAD_GetDDLValue</value>
+    <comment>To get LOV Values</comment>
+  </data>
+  <data name="S3G_LOANAD_GetLeaseSaleAssetDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetLeaseSaleAssetDetails</value>
+    <comment>To get the description of Lease Asset Sales</comment>
+  </data>
+  <data name="S3G_LOANAD_GetSANAssetCodeForOL" xml:space="preserve">
+    <value>S3G_LOANAD_GetSANAssetCodeForOL</value>
+  </data>
+  <data name="S3G_ORG_GetPRDDC_DocumentCategory" xml:space="preserve">
+    <value>[S3G_ORG_GetPRDDC_DocumentCategory]</value>
+    <comment>To Get PRDDC Document Category Details</comment>
+  </data>
+  <data name="S3G_GetCons_Category" xml:space="preserve">
+    <value>S3G_GetCons_Category</value>
+    <comment>To get the Document Cateogry based on Constitution</comment>
+  </data>
+  <data name="S3G_ORG_GetLOBMapperdToUser" xml:space="preserve">
+    <value>S3G_ORG_GetLOBMapperdToUser</value>
+  </data>
+  <data name="S3G_ORG_GetLOBBranchMapperdToUser" xml:space="preserve">
+    <value>S3G_ORG_GetLOBBranchMapperdToUser</value>
+  </data>
+  <data name="S3G_LOANAD_GetLeaseAssets" xml:space="preserve">
+    <value>S3G_LOANAD_GetLeaseAssets</value>
+    <comment>to get the Lease Assets</comment>
+  </data>
+  <data name="S3G_CLN_GetExistingDraweeBank" xml:space="preserve">
+    <value>S3G_CLN_GetExistingDraweeBank</value>
+    <comment>To get the existing  Drawee Bank name</comment>
+  </data>
+  <data name="S3G_CLN_DupCheckDepositBank" xml:space="preserve">
+    <value>S3G_CLN_DupCheckDepositBank</value>
+    <comment>he duplicate bank name in challan rule creation</comment>
+  </data>
+  <data name="S3G_LOANAD_GetAccountSpecificDetails" xml:space="preserve">
+    <value>S3G_LOANAD_GetAccountSpecificDetails</value>
+    <comment>To get Account Specific details of the selected Account</comment>
+  </data>
+  <data name="S3G_CLN_InsertChallanGeneration" xml:space="preserve">
+    <value>S3G_CLN_InsertChallanGeneration</value>
+    <comment>Challan Generation values</comment>
+  </data>
+  <data name="S3G_CLN_GetIncomeRecogNo_List" xml:space="preserve">
+    <value>S3G_CLN_GetIncomeRecogNo_List</value>
+  </data>
+  <data name="S3G_ORG_GetContitutionCustomer" xml:space="preserve">
+    <value>S3G_ORG_GetContitutionCustomer</value>
+    <comment>To get the Customer Address</comment>
+  </data>
+  <data name="S3G_ORG_GetSpecificLOBList" xml:space="preserve">
+    <value>S3G_ORG_GetSpecificLOBList</value>
+  </data>
+  <data name="S3G_LOANAD_Approval" xml:space="preserve">
+    <value>S3G_LOANAD_TransLander_Approvals</value>
+    <comment>To get Approval details for Translander</comment>
+  </data>
+  <data name="S3G_LOANAD_CountLASInvoicePrint" xml:space="preserve">
+    <value>S3G_LOANAD_CountLASInvoicePrint</value>
+    <comment>To check the invoice printing status for Lease Asset Sale</comment>
+  </data>
+  <data name="S3G_LOANAD_GetPLASLA_AIE" xml:space="preserve">
+    <value>S3G_LOANAD_GetPLASLA_AIE</value>
+  </data>
+  <data name="S3G_CLN_GetDebtCollectorRuleCard_Code" xml:space="preserve">
+    <value>S3G_CLN_GetDebtCollectorRuleCard_Code</value>
+    <comment>To Load Combo box in the Debt Collector Rule Card Translander</comment>
+  </data>
+  <data name="S3G_LOANAD_GetDILOBList" xml:space="preserve">
+    <value>S3G_LOANAD_GetDILOBList</value>
+    <comment>To Get LOB for Delivery Instruction</comment>
+  </data>
+  <data name="S3G_CLN_InsertTempBookDetails" xml:space="preserve">
+    <value>S3G_CLN_InsertTempBookDetails</value>
+    <comment>To Insert the Temp Booking details</comment>
+  </data>
+  <data name="S3G_CLN_GetAppropriationLogicDetails" xml:space="preserve">
+    <value>S3G_CLN_GetAppropriationLogicDetails</value>
+    <comment>To get Appropriation details for Receipt appropriation</comment>
+  </data>
+  <data name="S3G_CLN_GetMarketValueGrid" xml:space="preserve">
+    <value>S3G_CLN_GetMarketValueGrid</value>
+    <comment>To get Market value grid details</comment>
+  </data>
+  <data name="S3G_CLN_GetPDCReceiptProcessDetails" xml:space="preserve">
+    <value>S3G_CLN_GetPDCReceiptProcessDetails</value>
+    <comment>To get PDC Bulk Receipt Process Details</comment>
+  </data>
+  <data name="S3G_WORKFLOW_GetWorkFlowListEnqAssignment" xml:space="preserve">
+    <value>S3G_WORKFLOW_GetWorkFlowListEnqAssignment</value>
+    <comment>Get the Work Flow Configured for Product / LOB</comment>
+  </data>
+  <data name="S3G_WORKFLOW_GetWorkFlowRecords" xml:space="preserve">
+    <value>S3G_WORKFLOW_GetWorkFlowRecords</value>
+    <comment>To Retrieve the Work Flow Assgined records for displaying in the home page</comment>
+  </data>
+  <data name="S3G_WORKFLOW_GetWorkFlowScreens" xml:space="preserve">
+    <value>S3G_WORKFLOW_GetWorkFlowScreens</value>
+    <comment>Retrieve the Screens Involved in Work flow</comment>
+  </data>
+  <data name="S3G_WORKFLOW_IsWorkFlowConfigured" xml:space="preserve">
+    <value>S3G_WORKFLOW_IsWorkFlowConfigured</value>
+    <comment>Check whether work flow is enabled for a specific screen.</comment>
+  </data>
+  <data name="S3G_WORKFLOW_LoadCreditGuideTransaction" xml:space="preserve">
+    <value>S3G_WORKFLOW_LoadCreditGuideTransaction</value>
+    <comment>Load Credit Guid Transaction based on Work flow</comment>
+  </data>
+  <data name="S3G_WORKFLOW_LoadCreditParameterApproval" xml:space="preserve">
+    <value>S3G_WORKFLOW_LoadCreditParameterApproval</value>
+    <comment>Load Credit Parameter Approval based on Work flow</comment>
+  </data>
+  <data name="S3G_WORKFLOW_LoadEnquiryCustomerAppraisal" xml:space="preserve">
+    <value>S3G_WORKFLOW_LoadEnquiryCustomerAppraisal</value>
+    <comment>Load Enquiry Appraisel Form based on Work flow</comment>
+  </data>
+  <data name="S3G_WORKFLOW_LoadPreDisDocTransaction" xml:space="preserve">
+    <value>S3G_WORKFLOW_LoadPreDisDocTransaction</value>
+    <comment>Load PRDT Trans based on Work Flow</comment>
+  </data>
+  <data name="S3G_WORKFLOW_LoadPricing" xml:space="preserve">
+    <value>S3G_WORKFLOW_LoadPricing</value>
+    <comment>Load Pricing based on the work flow</comment>
+  </data>
+  <data name="S3G_WORKFLOW_LoadPricingApproval" xml:space="preserve">
+    <value>S3G_WORKFLOW_LoadPricingApproval</value>
+    <comment>Load Pricing Approval based on work flow</comment>
+  </data>
+  <data name="S3G_WORKFLOW_WorkFlowStatusTodo" xml:space="preserve">
+    <value>S3G_WORKFLOW_WorkFlowStatusTodo</value>
+    <comment>Insert / Update the tasks in to Work flow status table .</comment>
+  </data>
+  <data name="S3G_WORKFLOW_GetWorkflowDetails" xml:space="preserve">
+    <value>S3G_WORKFLOW_GetWorkflowDetails</value>
+    <comment>Get Work Flow Details for WORKFLOWMASTER Program</comment>
+  </data>
+  <data name="S3G_WORKFLOW_InsertWorkflow_Details" xml:space="preserve">
+    <value>S3G_WORKFLOW_InsertWorkflow_Details</value>
+    <comment>Insert the work flow details in to work flow master table</comment>
+  </data>
+  <data name="S3G_WORKFLOW_ProgramMapping_Details" xml:space="preserve">
+    <value>S3G_WORKFLOW_ProgramMapping_Details</value>
+    <comment>To Retrieve Program mapping details</comment>
+  </data>
+  <data name="GetAssetDetails" xml:space="preserve">
+    <value>S3G_RPT_GetAssetDetails</value>
+    <comment>To get Asset Details based on Prime and Sub account Numbers</comment>
+  </data>
+  <data name="GetBranch" xml:space="preserve">
+    <value>S3G_RPT_GET_BranchDetails</value>
+    <comment>To get Branch </comment>
+  </data>
+  <data name="GetBranchBasedRegion" xml:space="preserve">
+    <value>S3G_RPT_BranchDetails</value>
+    <comment>To get Branch List Based on Region</comment>
+  </data>
+  <data name="GetHeaderLobBranchProductDetails" xml:space="preserve">
+    <value>S3G_RPT_GetHeaderLobBranchProductDetails</value>
+    <comment>To GetHeaderLobBranchProductDetails</comment>
+  </data>
+  <data name="GetLOB" xml:space="preserve">
+    <value>S3G_RPT_GetRepayLobDetails</value>
+    <comment>To get Lob without FT and WC</comment>
+  </data>
+  <data name="GetPANumSANum" xml:space="preserve">
+    <value>S3G_RPT_GetPLASLA_AIE</value>
+    <comment>To get Prime and Sub account Numbers</comment>
+  </data>
+  <data name="GetProductBasedCustomer" xml:space="preserve">
+    <value>S3G_RPT_GetProductDetails</value>
+    <comment>To Get Products Based on Customer</comment>
+  </data>
+  <data name="GetProductDetails" xml:space="preserve">
+    <value>S3G_RPT_GetCustomerGlanceProductDetails</value>
+    <comment>To get Product Details</comment>
+  </data>
+  <data name="GetRegion" xml:space="preserve">
+    <value>S3G_RPT_GetSanctionRegionDetails</value>
+    <comment>To Get Region</comment>
+  </data>
+  <data name="GetRepaymentStructure" xml:space="preserve">
+    <value>S3G_RPT_GetRepaymentStructure</value>
+    <comment>To get RepaymentStructure based on Prime and Sub account Numbers</comment>
+  </data>
+  <data name="GetSanctionDetails" xml:space="preserve">
+    <value>S3G_RPT_GetSanctionDetails</value>
+    <comment>To get Sanction Details Based on Start Date and End Date</comment>
+  </data>
+  <data name="S3G_LOANAD_GetBulkRevison_List" xml:space="preserve">
+    <value>S3G_LOANAD_GetBulkRevison_List</value>
+    <comment>To Get Bulk Revision List</comment>
+  </data>
+  <data name="S3G_CLN_GetBranchLevelDemand" xml:space="preserve">
+    <value>S3G_CLN_GetBranchLevelDemand</value>
+    <comment>To get branch Level Demand</comment>
+  </data>
+  <data name="S3G_CLN_GetDemandProcessingDetails" xml:space="preserve">
+    <value>S3G_CLN_GetDemandProcessingDetails</value>
+    <comment>To Get Demand Processing Details</comment>
+  </data>
+  <data name="S3G_CLN_InsertDemandProcessing" xml:space="preserve">
+    <value>S3G_CLN_InsertDemandProcessing</value>
+    <comment>To Insert DemandProcessing Details</comment>
+  </data>
+  <data name="GetCustomerAtaGlanceBranchDetails" xml:space="preserve">
+    <value>S3G_RPT_GetBranchDetails</value>
+    <comment>To get Customer At a Glance Branch Details</comment>
+  </data>
+  <data name="GetCustomerAtaGlanceDetails" xml:space="preserve">
+    <value>S3G_RPT_GETCUSTOMERATGLANCEDETAILS</value>
+    <comment>To get Customer At a Glance Grid Details</comment>
+  </data>
+  <data name="GetCustomerAtaGlanceProductDetails" xml:space="preserve">
+    <value>S3G_RPT_GetCustomerGlanceProductDetails</value>
+    <comment>To get Customer At a Glance Product Details</comment>
+  </data>
+  <data name="GetCustomerAtaGlanceRegionDetails" xml:space="preserve">
+    <value>S3G_RPT_GetRegionDetails</value>
+    <comment>To get Customer At a Glance Region Details</comment>
+  </data>
+  <data name="GetLOBDetails" xml:space="preserve">
+    <value>S3G_RPT_GETLOBDETAILS</value>
+    <comment>To get LOB Details</comment>
+  </data>
+  <data name="GetPASADetails" xml:space="preserve">
+    <value>S3G_RPT_GETPASADETAILS</value>
+    <comment>To get PASA Details</comment>
+  </data>
+  <data name="GetPDCReminderBranchDetails" xml:space="preserve">
+    <value>S3G_RPT_GETPDCREMINDERBRANCHDETAILS</value>
+    <comment>To get PDC Reminder Branch Details</comment>
+  </data>
+  <data name="GetPDCReminderGridDetails" xml:space="preserve">
+    <value>S3G_RPT_GETPDCREMINDERGRIDDETAILS</value>
+    <comment>To get PDC Reminder Details</comment>
+  </data>
+  <data name="GetTransactionDetails" xml:space="preserve">
+    <value>S3G_RPT_GetTransactionDetails</value>
+    <comment>To get Transaction Details</comment>
+  </data>
+  <data name="S3g_CLN_DemandProcessing_List" xml:space="preserve">
+    <value>S3g_CLN_DemandProcessing_List</value>
+    <comment>To Get Demand related List values</comment>
+  </data>
+  <data name="SanctionDetails" xml:space="preserve">
+    <value>S3G_RPT_GetSanctionDetails</value>
+    <comment>To get Sanction Details</comment>
+  </data>
+  <data name="S3G_LR_DelGarageMaster" xml:space="preserve">
+    <value>S3G_LR_DelGarageMaster</value>
+    <comment>Marks the Is_Active field corresponding to the Company and garage ID to 0</comment>
+  </data>
+  <data name="S3G_LR_GetAccountdetails" xml:space="preserve">
+    <value>S3G_LR_GetAccountdetails</value>
+    <comment>Gets Garage Track details based on the Company ID and Garage ID</comment>
+  </data>
+  <data name="S3G_LR_GetGarageAccountdetails" xml:space="preserve">
+    <value>S3G_LR_GetGarageAccountdetails</value>
+    <comment>Get Garage Master details along with the Account details based on ComapnyID and GarageID and LOBID</comment>
+  </data>
+  <data name="S3G_LR_GetGarageDetails_Paging" xml:space="preserve">
+    <value>S3G_LR_GetGarageDetails_Paging</value>
+    <comment>To Get Garage Details  for paging</comment>
+  </data>
+  <data name="S3G_LR_GetGarageMaster" xml:space="preserve">
+    <value>S3G_LR_GetGarageMaster</value>
+    <comment>Gets the Garage Master details based on CompanyID and LOBID</comment>
+  </data>
+  <data name="S3G_LR_GetLookupTypeDescription" xml:space="preserve">
+    <value>S3G_LR_GetLookupTypeDescription</value>
+    <comment>Lookup type reference for Legal &amp; Repossession</comment>
+  </data>
+  <data name="S3G_LR_InsertGarageMaster" xml:space="preserve">
+    <value>S3G_LR_InsertGarageMaster</value>
+    <comment>Inserts Garage Master details</comment>
+  </data>
+  <data name="CreditScoreDetails" xml:space="preserve">
+    <value>S3G_RPT_GetCreditScoreDetails</value>
+    <comment>To Get the Credit Score Details</comment>
+  </data>
+  <data name="CustomersDetails" xml:space="preserve">
+    <value>S3G_RPT_GetCustomersDetails</value>
+    <comment>To Get Customers Details in Credit Score </comment>
+  </data>
+  <data name="S3G_RPT_GetProduct" xml:space="preserve">
+    <value>S3G_RPT_GetProductDetail</value>
+    <comment>To Get Product Detail based on LOB</comment>
+  </data>
+  <data name="PDCDetailsGrid" xml:space="preserve">
+    <value>S3G_RPT_GetPDCDetailsGrid</value>
+    <comment>To get the PDC  Details Grid</comment>
+  </data>
+  <data name="PDCNumber" xml:space="preserve">
+    <value>S3G_RPT_GetPDCNumber</value>
+    <comment>To Get the PDC Number</comment>
+  </data>
+  <data name="PLASLA_Credit" xml:space="preserve">
+    <value>S3G_RPT_GetPLASLA_PDC</value>
+    <comment>To Get the Prime Account Number and Sub Account Number</comment>
+  </data>
+  <data name="S3G_LR_GetRepossessionDocNo" xml:space="preserve">
+    <value>S3G_LR_GetRepossessionDocNo</value>
+    <comment>To get the Repossession Document number for Sale Notification </comment>
+  </data>
+  <data name="S3G_LR_GetRepDocDetails" xml:space="preserve">
+    <value>S3G_LR_GetRepDocDetails</value>
+    <comment>To get Repossession Detils based on Repo Number</comment>
+  </data>
+  <data name="S3G_LR_GetSaleBidDetails" xml:space="preserve">
+    <value>S3G_LR_GetSaleBidDetails</value>
+    <comment>Used to get the Sales Bid Details based on LOBID,COMPANYID and SALESBIDID</comment>
+  </data>
+  <data name="S3G_LR_INSERTSALEBID" xml:space="preserve">
+    <value>S3G_LR_INSERTSALEBID</value>
+    <comment>Inserts Sales Bid Entry and the Sales Bid details into the database.</comment>
+  </data>
+  <data name="S3G_LR_TransLander_SaleBidEntry" xml:space="preserve">
+    <value>S3G_LR_TransLander_SaleBidEntry</value>
+    <comment>Used to get the Translander for SalesBidEntry.</comment>
+  </data>
+  <data name="S3G_LR_UPDATESALEBID" xml:space="preserve">
+    <value>S3G_LR_UPDATESALEBID</value>
+    <comment>Updates Sales Bid Entry and the Sales Bid details in the database.</comment>
+  </data>
+  <data name="S3G_LR_GetSaleNotificationID" xml:space="preserve">
+    <value>S3G_LR_GetSaleNotificationID</value>
+    <comment>le Notification ID for Translander Page</comment>
+  </data>
+  <data name="S3G_LR_GetSaleNotificationDetails" xml:space="preserve">
+    <value>S3G_LR_GetSaleNotificationDetails</value>
+    <comment>To Get Sale Notification Details for query and Modify mode</comment>
+  </data>
+  <data name="S3G_CLN_InsertAssignDCService" xml:space="preserve">
+    <value>S3G_CLN_InsertAssignDCService</value>
+    <comment>To Insert Assign DC Service</comment>
+  </data>
+  <data name="S3G_LR_GetSaleBidID" xml:space="preserve">
+    <value>S3G_LR_GetSaleBidID</value>
+    <comment>To get the Sales Bid ID for LR translander page.</comment>
+  </data>
+  <data name="S3G_SYSAD_GetHierachyMasterDetails" xml:space="preserve">
+    <value>S3G_SYSAD_GetHierachyMasterDetails</value>
+    <comment>To get Hieracht Details</comment>
+  </data>
+  <data name="S3G_LR_GetSaleInvoiceDetails" xml:space="preserve">
+    <value>S3G_LR_GetSaleInvoiceDetails</value>
+    <comment>Gets the Sale Invoice Details.</comment>
+  </data>
+  <data name="S3G_LR_InsertSaleInvoice" xml:space="preserve">
+    <value>S3G_LR_InsertSaleInvoice</value>
+    <comment>Inserts the fresh Sales Invoice Header and Details tables values</comment>
+  </data>
+  <data name="S3G_LR_UpdateSaleInvoice" xml:space="preserve">
+    <value>S3G_LR_UpdateSaleInvoice</value>
+    <comment>Updates the Sale Invoice details based on Company ID and Sales Invoice ID</comment>
+  </data>
+  <data name="S3G_LR_GetSaleInvoiceID" xml:space="preserve">
+    <value>S3G_LR_GetSaleInvoiceID</value>
+    <comment>Gets the Sale Invoice ID</comment>
+  </data>
+  <data name="S3G_LR_GetSaleBidNotificationDetails" xml:space="preserve">
+    <value>S3G_LR_GetSaleBidNotificationDetails</value>
+    <comment>This stored procedure would be used to get the Sale Notification details along with the Customer details and the Bid Details. It would take Sale Notification IDalong with the Company ID and the LOBID and Branch ID  as its Parameter and would provide two Datatables. 
+One would contain the Customer related data and the other would contain the Bid Details.</comment>
+  </data>
+  <data name="S3G_LR_GetSaleBidNotificationID" xml:space="preserve">
+    <value>S3G_LR_GetSaleBidNotificationID</value>
+    <comment>To get the Sale Bidded Notification Numbers</comment>
+  </data>
+  <data name="S3G_LR_GetGLCodeOnAccCode" xml:space="preserve">
+    <value>S3G_LR_GetGLCodeOnAccCode</value>
+    <comment>Gets the GL Code based on the Account Code choosen. The Account could be a Entity Code or Customer Code</comment>
+  </data>
+  <data name="S3G_LR_GetSaleNotificationIDforBid" xml:space="preserve">
+    <value>S3G_LR_GetSaleNotificationIDforBid</value>
+    <comment>Get the Sale Notification ID for Bidding</comment>
+  </data>
+  <data name="S3G_LR_GetSLCodeOnGLCode" xml:space="preserve">
+    <value>S3G_LR_GetSLCodeOnGLCode</value>
+    <comment>This Stored Procedure retrieves the SLCode based on the GLCode sent as input</comment>
+  </data>
+  <data name="S3G_LR_GetAssetDetails" xml:space="preserve">
+    <value>S3G_LR_GetAssetDetails</value>
+    <comment>To get Asset details for generating Repossession Notice</comment>
+  </data>
+  <data name="S3G_LR_GetLRNNumber" xml:space="preserve">
+    <value>S3G_LR_GetLRNNumber</value>
+    <comment>To get LRN No based on LOB and Branch for Repossession Notice</comment>
+  </data>
+  <data name="S3G_LR_GetLRNNumDetails" xml:space="preserve">
+    <value>S3G_LR_GetLRNNumDetails</value>
+    <comment>To get details of LRN No details for Repossession Notice</comment>
+  </data>
+  <data name="S3g_LR_GetRepossessNoticeDetails" xml:space="preserve">
+    <value>S3g_LR_GetRepossessNoticeDetails</value>
+    <comment>To get Repossession Notice Details for query/Modify</comment>
+  </data>
+  <data name="S3G_LR_GetRN_No" xml:space="preserve">
+    <value>S3G_LR_GetRN_No</value>
+    <comment>To get Repossession Notice Numbers</comment>
+  </data>
+  <data name="S3G_LR_InsertReposseionNotice" xml:space="preserve">
+    <value>S3G_LR_InsertReposseionNotice</value>
+    <comment>To save the details of Repossession Notice</comment>
+  </data>
+  <data name="S3G_CLN_GetDelinquencyMonth" xml:space="preserve">
+    <value>S3G_CLN_GetDelinquencyMonth</value>
+    <comment>To Get Month and Year based on LOB and branch.</comment>
+  </data>
+  <data name="S3G_CLN_GetDelinquencySpooling" xml:space="preserve">
+    <value>S3G_CLN_GetDelinquencySpooling</value>
+    <comment>To Get Delinquency Spooling Details</comment>
+  </data>
+  <data name="S3G_CLN_LOADLOV" xml:space="preserve">
+    <value>S3G_CLN_LOADLOV</value>
+    <comment>To Fill LOV in Collection Module
+</comment>
+  </data>
+  <data name="S3G_LR_GetFollowUpUserName" xml:space="preserve">
+    <value>S3G_LR_GetFollowUpUserName</value>
+    <comment>To Get Followup User Name based on User ID In LR Module</comment>
+  </data>
+  <data name="S3G_LR_getLRApprovalDetails" xml:space="preserve">
+    <value>S3G_LR_getLRApprovalDetails</value>
+    <comment>To Get LR Approval Details in LR Module</comment>
+  </data>
+  <data name="S3G_LR_GetMappedAccountAssetDetails" xml:space="preserve">
+    <value>S3G_LR_GetMappedAccountAssetDetails</value>
+    <comment>To Get Mapped Account Asset Details</comment>
+  </data>
+  <data name="S3G_LR_GetMappedLRNDetails" xml:space="preserve">
+    <value>S3G_LR_GetMappedLRNDetails</value>
+    <comment>To Get Mapped LRN Details</comment>
+  </data>
+  <data name="S3G_LR_InsertLRNote" xml:space="preserve">
+    <value>S3G_LR_InsertLRNote</value>
+    <comment>To Insert and Update LRNote Details</comment>
+  </data>
+  <data name="S3G_LR_LOADLOV" xml:space="preserve">
+    <value>S3G_LR_LOADLOV</value>
+    <comment>To fill LOV in Legal Repossession Module (LOB,Branch,Action,Status...)</comment>
+  </data>
+  <data name="S3G_LR_GetDelinquencyPANumSANum" xml:space="preserve">
+    <value>S3G_LR_GetDelinquencyPANumSANum</value>
+    <comment>To Get Deliquency PANum and SANum for LR Module</comment>
+  </data>
+  <data name="S3G_LR_GetPANumCustomer" xml:space="preserve">
+    <value>S3G_LR_GetPANumCustomer</value>
+    <comment>To Get Customer Details based on PANum</comment>
+  </data>
+  <data name="S3G_LR_GetMappedPASADetails" xml:space="preserve">
+    <value>S3G_LR_GetMappedPASADetails</value>
+    <comment>To Get Mappted PASA Details in LR Note</comment>
+  </data>
+  <data name="S3G_LR_GetInvoiceonSaleBid" xml:space="preserve">
+    <value>S3G_LR_GetInvoiceonSaleBid</value>
+    <comment>To get the Sale Invoice details based on Sale BId ID</comment>
+  </data>
+  <data name="S3G_LR_GetReceiptDetailsonPASANum" xml:space="preserve">
+    <value>S3G_LR_GetReceiptDetailsonPASANum</value>
+    <comment>Gets the Receipt Numer based on PA SA Number and GLCode.</comment>
+  </data>
+  <data name="S3G_Cln_GetdemandSpoolingData" xml:space="preserve">
+    <value>S3G_Cln_GetdemandSpoolingData</value>
+    <comment>To get Demand spooling data</comment>
+  </data>
+  <data name="GetAssetCategories" xml:space="preserve">
+    <value>S3G_RPT_GetAssetCategories</value>
+    <comment>To Get Asset Categories</comment>
+  </data>
+  <data name="GetAssetWiseDemand" xml:space="preserve">
+    <value>S3G_RPT_ASSETWISEDEMANDCOLLECTIONDETAILS</value>
+    <comment>To Get Asset Wise Demand Collection Details</comment>
+  </data>
+  <data name="GetDemandCollection" xml:space="preserve">
+    <value>S3G_RPT_DEMANDCOLLECTION</value>
+    <comment>To Get Demand Collection Details</comment>
+  </data>
+  <data name="GetFrequency" xml:space="preserve">
+    <value>S3G_RPT_GetFrequency</value>
+    <comment>To Get Frequency</comment>
+  </data>
+  <data name="GetAssetCategoriesType" xml:space="preserve">
+    <value>S3G_RPT_GETASSETCATEGORIESTYPE</value>
+    <comment>To get Asset Categories Types</comment>
+  </data>
+  <data name="S3G_CLT_GetCollateralItemsRefNumbers" xml:space="preserve">
+    <value>S3G_CLT_GetCollateralItemsRefNumbers</value>
+    <comment>To get Collateral Item Numbers</comment>
+  </data>
+  <data name="S3G_CLT_GetCollateralSaleDetails" xml:space="preserve">
+    <value>S3G_CLT_GetCollateralSaleDetails</value>
+    <comment>To retrieve the Collateral Sale Details</comment>
+  </data>
+  <data name="S3G_CLT_InsertCollaterSale" xml:space="preserve">
+    <value>S3G_CLT_InsertCollaterSale</value>
+    <comment>Inserts Collateral Sale Details</comment>
+  </data>
+  <data name="S3G_CLT_UpdateCollaterSale" xml:space="preserve">
+    <value>S3G_CLT_UpdateCollaterSale</value>
+    <comment>Updates the  Collateral Sale details</comment>
+  </data>
+  <data name="Payment_DC_NPA" xml:space="preserve">
+    <value>S3G_RPT_PAYMENTDEMANDCOLLECTIONNPA</value>
+    <comment>To get Payment , Demand Collection and NPA Details</comment>
+  </data>
+  <data name="GetEnquiryFollowupDetails" xml:space="preserve">
+    <value>S3G_RPT_GetEnquiryFollowupDetails</value>
+    <comment>To load Enquiry Followup details</comment>
+  </data>
+  <data name="GetEnquiryPerformanceDetails" xml:space="preserve">
+    <value>S3G_RPT_GetEnquiryPerformanceDetails</value>
+    <comment>To load Enquiry performance details.</comment>
+  </data>
+  <data name="GetEnquiryReceivedDetails" xml:space="preserve">
+    <value>S3G_RPT_GetEnquiryReceivedDetails</value>
+    <comment>To load Enquiry Received details</comment>
+  </data>
+  <data name="GetEnquiryRejectedDetails" xml:space="preserve">
+    <value>S3G_RPT_GetEnquiryRejectedDetails</value>
+    <comment>To load Enquiry Rejected details</comment>
+  </data>
+  <data name="GetEnquirySuccessfulDetails" xml:space="preserve">
+    <value>S3G_RPT_GetEnquirySuccessfulDetails</value>
+    <comment>To load Enquiry Successful details</comment>
+  </data>
+  <data name="GetLANDescriptiondetails" xml:space="preserve">
+    <value>S3G_RPT_GetLANDescriptiondetails</value>
+    <comment>To load asset details based on LAN no</comment>
+  </data>
+  <data name="GetLANdetails" xml:space="preserve">
+    <value>S3G_RPT_GetLANdetails</value>
+    <comment>To load Lease asset details</comment>
+  </data>
+  <data name="Getpacsubac" xml:space="preserve">
+    <value>S3G_RPT_Getpacsubac</value>
+    <comment>To load prime and sub acc no for operating lease</comment>
+  </data>
+  <data name="S3G_LANOperatingLease" xml:space="preserve">
+    <value>S3G_RPT_LANOPERATINGLEASE</value>
+    <comment>To load operating lease as LOB </comment>
+  </data>
+  <data name="S3G_RPT_BUCKETGENERATION" xml:space="preserve">
+    <value>S3G_RPT_BUCKETGENERATION</value>
+    <comment>To get the bucket parameters</comment>
+  </data>
+  <data name="S3G_RPT_DPD_REPORT" xml:space="preserve">
+    <value>S3G_RPT_DPD_REPORT</value>
+    <comment>To get the DPD Report.</comment>
+  </data>
+  <data name="GetStockReceivables" xml:space="preserve">
+    <value>S3G_RPT_STOCKRECEIVABLEDETAILSNEW</value>
+    <comment>To Get the Stock and Receivables Details</comment>
+  </data>
+  <data name="S3G_RPT_DPD_ASSET_REPORT" xml:space="preserve">
+    <value>S3G_RPT_DPD_ASSET_REPORT</value>
+    <comment>To get the Asset based DPD Report</comment>
+  </data>
+  <data name="GetDemandCollectionDetails" xml:space="preserve">
+    <value>S3G_RPT_DEMANDCOLLECTIONNEW</value>
+    <comment>To get Demand Collection Details for Region and Branch wise</comment>
+  </data>
+  <data name="GetDCCLDetails" xml:space="preserve">
+    <value>S3G_RPT_DCCLNEW</value>
+    <comment>To Get the Demand Collection Customer Level Details Account Wise</comment>
+  </data>
+  <data name="S3G_CLT_GetCollSaleCustomerAccDetails" xml:space="preserve">
+    <value>S3G_CLT_GetCollSaleCustomerAccDetails</value>
+    <comment>To Get Account Details for Collateral Sale, based on Customer ID</comment>
+  </data>
+  <data name="S3g_Rpt_CheckDemandExists" xml:space="preserve">
+    <value>S3g_Rpt_CheckDemandExists</value>
+    <comment>Checks whether a demand has been run on the demand month which is inputted.</comment>
+  </data>
+  <data name="GetBranchAdditionAccount" xml:space="preserve">
+    <value>S3G_RPT_GETADDITIONACCOUNTS</value>
+    <comment>To get Addition NPA account</comment>
+  </data>
+  <data name="GetBranchClosingAccount" xml:space="preserve">
+    <value>S3G_RPT_GETCLOSINGACCOUNTS</value>
+    <comment>To get Closing NPA account</comment>
+  </data>
+  <data name="GetBranchCollectionDetails" xml:space="preserve">
+    <value>S3G_RPT_GETCOLLECTION</value>
+    <comment>To get Branch Performance Collection details</comment>
+  </data>
+  <data name="GetBranchCumulativeCollection" xml:space="preserve">
+    <value>S3G_RPT_GETCUMULATIVECOLLECTION</value>
+    <comment>To get Cumulative Collection</comment>
+  </data>
+  <data name="GetBranchDeletionAccount" xml:space="preserve">
+    <value>S3G_RPT_GETDELETIONACCOUNTS</value>
+    <comment>To get Deletion NPA account</comment>
+  </data>
+  <data name="GetBranchNoofAccounts" xml:space="preserve">
+    <value>S3G_RPT_GETNOOFACCOUNTS</value>
+    <comment>To get Branch no of Accounts</comment>
+  </data>
+  <data name="GetBranchNPADetails" xml:space="preserve">
+    <value>S3G_RPT_BRANCHNPADETAILS</value>
+    <comment>To get Branch NPA Details</comment>
+  </data>
+  <data name="GetBranchOpeningAccount" xml:space="preserve">
+    <value>S3G_RPT_GETOPENINGACCOUNT</value>
+    <comment>To get opening NPA account</comment>
+  </data>
+  <data name="GetBranchPaymentDetails" xml:space="preserve">
+    <value>S3G_RPT_PAYMENT</value>
+    <comment>To get Branch Performance Payment Details</comment>
+  </data>
+  <data name="GetBranchStockDetails" xml:space="preserve">
+    <value>S3G_RPT_GETSTOCKDETAILS</value>
+    <comment>To get Branch Performance Stock Details</comment>
+  </data>
+  <data name="GetDebtCollectorRuleCard" xml:space="preserve">
+    <value>S3G_RPT_GETDEBTCOLLECTORRULECARD</value>
+    <comment>To get Debt Collector Rule Card</comment>
+  </data>
+  <data name="GetDemandStatement" xml:space="preserve">
+    <value>S3G_RPT_GETDEMANDSTATEMENT</value>
+    <comment>To get Demand Statement </comment>
+  </data>
+  <data name="GetDemandStatementCategory" xml:space="preserve">
+    <value>S3G_RPT_GETCATEGORY</value>
+    <comment>To get Demand Statement category</comment>
+  </data>
+  <data name="GetDisbursementDetails" xml:space="preserve">
+    <value>S3G_RPT_GETDISBURSEMENTDETAILS</value>
+    <comment>To get Disbursement Details</comment>
+  </data>
+  <data name="GetMemorandumdetails" xml:space="preserve">
+    <value>S3G_RPT_GetMemorandumDetails</value>
+    <comment>To get Memorandum details</comment>
+  </data>
+  <data name="getregbranch" xml:space="preserve">
+    <value>S3G_RPT_GETREGIONBRANCH</value>
+    <comment>To get region and branch alone</comment>
+  </data>
+  <data name="GetSummarydetails" xml:space="preserve">
+    <value>S3G_RPT_GetSummaryDetails</value>
+    <comment>To get Summary details</comment>
+  </data>
+  <data name="GetCollectionReportDetails" xml:space="preserve">
+    <value>S3G_RPT_COLLECTIONREPORT</value>
+    <comment>To get Collection Report Details</comment>
+  </data>
+  <data name="GetCustomerAtaGlanceDetailsNew" xml:space="preserve">
+    <value>S3G_RPT_GETCUSTOMERATGLANCEDETAILSNew</value>
+    <comment>To get Customer at a glance details</comment>
+  </data>
+  <data name="GetCustomerWiseBranch" xml:space="preserve">
+    <value>S3G_RPT_GetCustomerBasedBranch</value>
+    <comment>To get Branch Based on Customer</comment>
+  </data>
+  <data name="GetCustomerWiseLob" xml:space="preserve">
+    <value>S3G_RPT_GetCustomerBasedLob</value>
+    <comment>To get lob Based on Customer</comment>
+  </data>
+  <data name="GetDemandCollectionRegionwiseDetails" xml:space="preserve">
+    <value>S3G_RPT_DCREGIONCCLDETAILSNEW</value>
+    <comment>To get Demand Collection Region wise Details</comment>
+  </data>
+  <data name="GetCustomerGroupPAN" xml:space="preserve">
+    <value>S3G_RPT_GetCustomerGroupPAN</value>
+    <comment>To Get the Combinations of Customer,Group and Account Number</comment>
+  </data>
+  <data name="GetDemandPAN" xml:space="preserve">
+    <value>S3G_RPT_GETDEMANDPAN</value>
+    <comment>To Get the Demand Collection Account Number</comment>
+  </data>
+  <data name="GetDemandSAN" xml:space="preserve">
+    <value>S3G_RPT_GetDemandSAN</value>
+    <comment>To Get the Demand Collection Sub Account Number</comment>
+  </data>
+  <data name="GetGroup" xml:space="preserve">
+    <value>S3G_RPT_GETCUSTOMERGROUP</value>
+    <comment>To Get the Customer Group</comment>
+  </data>
+  <data name="GetAssetPerformance" xml:space="preserve">
+    <value>S3G_RPT_AssetPerformance</value>
+    <comment>To get Asset Performance for Report</comment>
+  </data>
+  <data name="GetVendorDetails" xml:space="preserve">
+    <value>S3G_RPT_GetVendorDetails</value>
+    <comment>To get Vendor Details</comment>
+  </data>
+  <data name="S3G_LR_ChkAssetExistsinGarage" xml:space="preserve">
+    <value>S3G_LR_ChkAssetExistsinGarage</value>
+    <comment>To check if asset exists in a Garage while de-activating the garage.</comment>
+  </data>
+  <data name="S3G_Get_EntityType" xml:space="preserve">
+    <value>S3G_Get_EntityType</value>
+    <comment>To get the Entity Types</comment>
+  </data>
+  <data name="S3G_LR_GetCustomer" xml:space="preserve">
+    <value>S3G_LR_GetCustomer</value>
+    <comment>To get the Customer Details for Invoice</comment>
+  </data>
+  <data name="S3G_LR_GetEntity" xml:space="preserve">
+    <value>S3G_LR_GetEntity</value>
+    <comment>To get the Entity Details for Invoice</comment>
+  </data>
+  <data name="GetJournalDetails" xml:space="preserve">
+    <value>S3G_RPT_GetJournalDetails</value>
+    <comment>To get Journal Details</comment>
+  </data>
+  <data name="GetLanpanSanDetails" xml:space="preserve">
+    <value>S3G_RPT_GetLANPANSANdetails</value>
+    <comment>To get lan prime and sub account details</comment>
+  </data>
+  <data name="GetPASA" xml:space="preserve">
+    <value>S3G_RPT_GetPLASLA</value>
+    <comment>To get Account and sub account number</comment>
+  </data>
+  <data name="S3G_CLT_UpdateCollaterSaleInvoicedetails" xml:space="preserve">
+    <value>S3G_CLT_UpdateCollaterSaleInvoicedetails</value>
+    <comment>To update Collateral Sale Invoice Details</comment>
+  </data>
+  <data name="S3G_LR_GetRepossessionDate" xml:space="preserve">
+    <value>S3G_LR_GetRepossessionDate</value>
+    <comment>To get Asset details for Repossession Notice</comment>
+  </data>
+  <data name="S3G_LR_NoticeOutAmt" xml:space="preserve">
+    <value>S3G_LR_NoticeOutAmt</value>
+    <comment>To get Outstanding amount for Repossession Notice</comment>
+  </data>
+  <data name="GetPDCLobBranchNo" xml:space="preserve">
+    <value>S3G_RPT_GETPDCLOBBRANCH</value>
+    <comment>To load LOB, Branch based on Account Number</comment>
+  </data>
+  <data name="GetPDCPAN" xml:space="preserve">
+    <value>S3G_RPT_GETPDCPAN</value>
+    <comment>To get the Account Number based on Customer,LOB and Branch</comment>
+  </data>
+  <data name="GetPDCSAN" xml:space="preserve">
+    <value>S3G_RPT_GETPDCSAN</value>
+    <comment>To Get the Sub Account Number based on Account Number</comment>
+  </data>
+  <data name="CustomerBasedLOBForCG" xml:space="preserve">
+    <value>S3G_RPT_CustomerBasedLOBForCG</value>
+    <comment>To get LOB Based on Customer in Customer at a glance report</comment>
+  </data>
+  <data name="GetPDCDate" xml:space="preserve">
+    <value>S3G_RPT_GetPDCDate</value>
+    <comment>To Get the PDC Date</comment>
+  </data>
+  <data name="summary" xml:space="preserve">
+    <value>S3G_RPT_GetSummaryAccountDetails</value>
+    <comment>To get summary account wise details</comment>
+  </data>
+  <data name="PDCDocumentPathDetails" xml:space="preserve">
+    <value>S3G_RPT_GetPDCReminderDocPath</value>
+    <comment>To get PDC Reminder Document Path Details</comment>
+  </data>
+  <data name="getmemoaccount" xml:space="preserve">
+    <value>S3G_RPT_GetMemorandumaccountDetails</value>
+    <comment>To get memo details account wise</comment>
+  </data>
+  <data name="GetDemandCustLOB" xml:space="preserve">
+    <value>S3G_RPT_DEMANDCUSTLOB</value>
+    <comment>To Get Demand Collection Customer Level LOB</comment>
+  </data>
+  <data name="S3G_RPT_GetEnquiryLob" xml:space="preserve">
+    <value>S3G_RPT_GetEnquiryLob</value>
+    <comment>To get LOB without Factoring and WC</comment>
+  </data>
+  <data name="getlocation2" xml:space="preserve">
+    <value>S3G_RPT_LevelValue</value>
+    <comment>To get Location2</comment>
+  </data>
+  <data name="GetPDCLOBDetails" xml:space="preserve">
+    <value>S3G_RPT_GETPDCLOBDETAILS</value>
+    <comment>To get LOB based on customer for PDC Acknowledgement</comment>
+  </data>
+  <data name="S3G_RPT_GETLOCCODE" xml:space="preserve">
+    <value>S3G_RPT_GETLOCCODE</value>
+    <comment>To get location code for enquiry details</comment>
+  </data>
+  <data name="GetCustRejected" xml:space="preserve">
+    <value>S3G_RPT_GetCustomersDetailsRej</value>
+    <comment>To Get the Details of the Rejected Customers</comment>
+  </data>
+  <data name="S3G_RPT_GetLANNumber" xml:space="preserve">
+    <value>S3G_RPT_GetLANNumber</value>
+    <comment>TO get LAN no from and to</comment>
+  </data>
+  <data name="TotalAdditionAccount" xml:space="preserve">
+    <value>S3G_RPT_GETTOTALADDITIONACCOUNTS</value>
+    <comment>To get total Addition account</comment>
+  </data>
+  <data name="TotalClosingAccount" xml:space="preserve">
+    <value>S3G_RPT_GETTOTALCLOSINGACCOUNTS</value>
+    <comment>To get total Closing account</comment>
+  </data>
+  <data name="TotalDeletionAccount" xml:space="preserve">
+    <value>S3G_RPT_GETTOTALDELETIONACCOUNTS</value>
+    <comment>To get total Deletion account</comment>
+  </data>
+  <data name="TotalOpeningAccount" xml:space="preserve">
+    <value>S3G_RPT_GETTOTALOPENINGACCOUNT</value>
+    <comment>To get total opening account</comment>
+  </data>
+  <data name="GetIncomeReport" xml:space="preserve">
+    <value>S3G_RPT_IncomeReportDetails</value>
+    <comment>To get Income Report Grid Details</comment>
+  </data>
+  <data name="LeaseAssetRegisterDetails" xml:space="preserve">
+    <value>S3G_RPT_LEASEASSETREGISTERDETAILS</value>
+    <comment>To Get Complete Details of Asset</comment>
+  </data>
+  <data name="S3G_LoanAd_GetPRDDC_DocCateg" xml:space="preserve">
+    <value>S3G_LoanAd_GetPRDDC_DocCateg</value>
+    <comment>To get post disbursement Doc Category</comment>
+  </data>
+  <data name="S3G_CLT_InsertCollaterRelease" xml:space="preserve">
+    <value>S3G_CLT_InsertCollaterRelease</value>
+    <comment>To insert Collateral Release Details</comment>
+  </data>
+  <data name="S3G_CLT_UpdateCollaterRelease" xml:space="preserve">
+    <value>S3G_CLT_UpdateCollaterRelease</value>
+    <comment>To Update Collateral Release Details</comment>
+  </data>
+  <data name="S3G_CLT_GetCollateralReleaseDetails" xml:space="preserve">
+    <value>S3G_CLT_GetCollateralReleaseDetails</value>
+    <comment>To get collateral Release Details</comment>
+  </data>
+  <data name="S3G_ORG_GetLOBProductList" xml:space="preserve">
+    <value>S3G_ORG_GetLOBProductList</value>
+    <comment>To get Product details based on LOB </comment>
+  </data>
+  <data name="S3G_ORG_Getbusexecname" xml:space="preserve">
+    <value>S3G_ORG_Getbusexecname</value>
+    <comment>To get entity name or business executive name based on business type condition</comment>
+  </data>
+  <data name="S3G_ORG_GetEntityDetails" xml:space="preserve">
+    <value>S3G_ORG_GetEntityDetails</value>
+    <comment>To get entity details</comment>
+  </data>
+  <data name="S3G_SYSAD_Get_User_Details" xml:space="preserve">
+    <value>S3G_SYSAD_Get_User_Details</value>
+    <comment>To get user details </comment>
+  </data>
+  <data name="S3G_ORG_Get_Target_Number" xml:space="preserve">
+    <value>S3G_ORG_Get_Target_Number</value>
+    <comment>To get Business Target Number</comment>
+  </data>
+  <data name="S3G_ORG_GetBustargetdet" xml:space="preserve">
+    <value>S3G_ORG_GetBustargetdet</value>
+    <comment>To get business target details</comment>
+  </data>
+  <data name="S3G_ORG_GetBustrgdetcreate" xml:space="preserve">
+    <value>S3G_ORG_GetBustrgdetcreate</value>
+    <comment>To get Business target details</comment>
+  </data>
+  <data name="TA_ProductMaster" xml:space="preserve">
+    <value>S3G_TA_Get_Product_List</value>
+    <comment>To get scheme for Trade Advance</comment>
+  </data>
+  <data name="S3G_RPT_GetCollateralReport" xml:space="preserve">
+    <value>S3G_RPT_GetCollateralReport</value>
+    <comment>S3G_RPT_GetCollateralReport</comment>
+  </data>
+  <data name="S3G_RPT_GetCollateralType" xml:space="preserve">
+    <value>S3G_RPT_GetCollateralType</value>
+    <comment>S3G_RPT_GetCollateralType</comment>
+  </data>
+  <data name="S3G_RPT_INCREPORT_ACCOUNT" xml:space="preserve">
+    <value>S3G_RPT_INCREPORT_ACCOUNT</value>
+    <comment>To get the income report detailed grid</comment>
+  </data>
+  <data name="S3G_SA_GET_BRANCHLIST" xml:space="preserve">
+    <value>S3G_SYSAD_GET_BRANCHLIST_AGT</value>
+    <comment>To Get Auto Complete Branch List</comment>
+  </data>
+  <data name="GetProbableDelinq" xml:space="preserve">
+    <value>S3G_RPT_PROBABLEDELINQUENCY</value>
+    <comment>To get the Calculation Grid</comment>
+  </data>
+  <data name="S3G_Get_GobalCompanyDetails" xml:space="preserve">
+    <value>S3G_Get_GobalCompanyDetails</value>
+  </data>
+  <data name="S3G_Get_User_List" xml:space="preserve">
+    <value>S3G_Get_Userlist_AGT</value>
+    <comment>To Get UserList (Auto Suggestion)</comment>
+  </data>
+  <data name="S3G_ORG_CSSHORTNAME" xml:space="preserve">
+    <value>S3G_ORG_CSSHORTNAME_LIST</value>
+    <comment>To Get Active Credit Score Short Name</comment>
+  </data>
+  <data name="S3G_ORG_GROUPNAME" xml:space="preserve">
+    <value>S3G_ORG_GROUPNAME_DTL</value>
+    <comment>To Get Group name Details</comment>
+  </data>
+  <data name="S3G_ORG_GROUPNAME1" xml:space="preserve">
+    <value>S3G_ORG_GROUPNAME_DTL</value>
+    <comment>To Get Group name Details</comment>
+  </data>
+  <data name="S3G_ORG_SHORTNAMEDTL" xml:space="preserve">
+    <value>S3G_ORG_CSSHORTNAME_DTLS</value>
+    <comment>To Get CreditScore Shot name Details</comment>
+  </data>
+  <data name="S3G_ApprovedPayment_Cancel" xml:space="preserve">
+    <value>S3G_ApprovedPayment_Cancel</value>
+    <comment>To get Approved Payment Cancel SP</comment>
+  </data>
+</root>

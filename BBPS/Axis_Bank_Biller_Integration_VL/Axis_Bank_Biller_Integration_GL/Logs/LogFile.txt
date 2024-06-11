@@ -1,0 +1,96 @@
+
+DateTime         : 08/10/2021 4:50:05 PM
+User_ID          : 
+Error_Message    : The key 'INIFILEPATH' does not exist in the appSettings configuration section.
+Category_Name    : 
+Priority         : 
+Event_ID         : 
+Severity         : 
+Title            : 
+Machine          : LP-FSS-STANDBY
+App_Domain       : /LM/W3SVC/2/ROOT-1-132730582671595672
+Process_ID       : 22032
+Process_Name     : C:\Program Files (x86)\IIS Express\iisexpress.exe
+Thread_Name      : 7936
+Win32_ThreadID   : 
+Extended_Properties: 
+
+DateTime         : 08/10/2021 4:52:15 PM
+User_ID          : 
+Error_Message    : The key 'INIFILEPATH' does not exist in the appSettings configuration section.
+Category_Name    : 
+Priority         : 
+Event_ID         : 
+Severity         : 
+Title            : 
+Machine          : LP-FSS-STANDBY
+App_Domain       : /LM/W3SVC/2/ROOT-1-132730582671595672
+Process_ID       : 22032
+Process_Name     : C:\Program Files (x86)\IIS Express\iisexpress.exe
+Thread_Name      : 27232
+Win32_ThreadID   : 
+Extended_Properties: 
+
+DateTime         : 08/20/2021 5:14:33 PM
+User_ID          : 
+Error_Message    : Unable to cast object of type 'System.DBNull' to type 'System.String'.
+Category_Name    : 
+Priority         : 
+Event_ID         : 
+Severity         : 
+Title            : 
+Machine          : LP-FSS-STANDBY
+App_Domain       : /LM/W3SVC/2/ROOT-1-132739330364634029
+Process_ID       : 13600
+Process_Name     : C:\Program Files (x86)\IIS Express\iisexpress.exe
+Thread_Name      : 19944
+Win32_ThreadID   : 
+Extended_Properties: 
+
+DateTime         : 08/20/2021 5:18:24 PM
+User_ID          : 
+Error_Message    : The key 'INIFILEPATH' does not exist in the appSettings configuration section.
+Category_Name    : 
+Priority         : 
+Event_ID         : 
+Severity         : 
+Title            : 
+Machine          : LP-FSS-STANDBY
+App_Domain       : /LM/W3SVC/2/ROOT-1-132739330364634029
+Process_ID       : 13600
+Process_Name     : C:\Program Files (x86)\IIS Express\iisexpress.exe
+Thread_Name      : 20616
+Win32_ThreadID   : 
+Extended_Properties: 
+
+DateTime         : 08/20/2021 5:20:06 PM
+User_ID          : 
+Error_Message    : The key 'INIFILEPATH' does not exist in the appSettings configuration section.
+Category_Name    : 
+Priority         : 
+Event_ID         : 
+Severity         : 
+Title            : 
+Machine          : LP-FSS-STANDBY
+App_Domain       : /LM/W3SVC/2/ROOT-1-132739330364634029
+Process_ID       : 13600
+Process_Name     : C:\Program Files (x86)\IIS Express\iisexpress.exe
+Thread_Name      : 13716
+Win32_ThreadID   : 
+Extended_Properties: 
+
+DateTime         : 08/20/2021 5:20:26 PM
+User_ID          : 
+Error_Message    : The key 'INIFILEPATH' does not exist in the appSettings configuration section.
+Category_Name    : 
+Priority         : 
+Event_ID         : 
+Severity         : 
+Title            : 
+Machine          : LP-FSS-STANDBY
+App_Domain       : /LM/W3SVC/2/ROOT-1-132739330364634029
+Process_ID       : 13600
+Process_Name     : C:\Program Files (x86)\IIS Express\iisexpress.exe
+Thread_Name      : 13716
+Win32_ThreadID   : 
+Extended_Properties: 
